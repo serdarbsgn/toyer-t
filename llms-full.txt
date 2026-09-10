@@ -1,0 +1,74 @@
+# TOYER Makine Teknolojileri — Tam Dokümantasyon ve Ürün Kataloğu
+
+> TOYER (ATM Beyaz Eşya Parçaları San. ve Tic. Ltd. Şti. bünyesinde), 1987 yılından bu yana endüstriyel makine imalatı, otomatik tel ve rezistans kaynak makineleri, CNC boru şekillendirme sistemleri, yapay zeka destekli sert lehimleme (brazing), helyum kaçak test odaları ve beyaz eşya / ısı eşanjörü üretim teknolojileri geliştiren, T.C. Sanayi ve Teknoloji Bakanlığı onaylı bir Tasarım Merkezi'dir.
+
+## 1. Şirket Profili ve Tarihçe
+ATM grubu 1987 yılında kurulmuş olup, beyaz eşya yan sanayi ve ısı eşanjörleri imalatında Türkiye'nin öncü kuruluşlarındandır. Şirket bünyesindeki TOYER Makine Teknolojileri bölümü, üretim hatlarında kullanılan tüm özel proses makinelerini, robotik otomasyon hücrelerini, boru işleme hatlarını ve kalite kontrol test istasyonlarını kendi bünyesinde tasarlayıp imal etmektedir.
+
+- **Onaylı Tasarım Merkezi:** 2018 yılında T.C. Sanayi ve Teknoloji Bakanlığı tarafından tescillenmiştir.
+- **Fabrika ve İstihdam:** 3 modern üretim tesisi, 400+ çalışan, 40+ yüksek lisans, lisans ve ön lisans dereceli mühendis ve teknik uzman.
+- **Mühendislik Disiplinleri:** Makine Mühendisliği, Tasarım Mühendisliği, Mekatronik, Yapay Zeka ve Endüstriyel Yazılım.
+- **İş Birlikleri:** TÜBİTAK, KOSGEB, Teknik Liseler ve Üniversiteler.
+- **Fikri Mülkiyet:** 10 tescilli patent, 1 dünya çapında ticarileşen küresel buluş.
+
+## 2. Ürün Kataloğu ve Teknik Özellikler
+
+### 2.1 Tam Otomatik Rezistans Kaynak Makineleri
+- **Açıklama:** Kondanser ve tel ızgara üretiminde tek vuruşta 300 teli aynı anda kaynatabilen yüksek hızlı ve yüksek akım kontrollü direnç kaynak makineleri.
+- **Uygulama Alanları:** Beyaz eşya soğutucu kondanserleri, evaporatörler, tel sepet ve ızgara imalatı.
+- **URL:** https://www.toyer.com.tr/urunler/kaynak-makineleri
+
+### 2.2 Yapay Zeka Entegrasyonlu Hassas Sert Lehimleme (Brazing)
+- **Açıklama:** Endüstriyel kameralar, yapay zeka destekli görüntü işleme modelleri ve otomatik alev/indüksiyon modülasyonu ile boru bağlantılarını hatasız lehimleyen sistem.
+- **Özellikler:** Pre-process konum tespiti, gerçek zamanlı sıcaklık ve alev kontrolü, post-process kalite doğrulaması ve hatalı parça ayıklayan robotik tasnif hücresi.
+- **URL:** https://www.toyer.com.tr/urunler/yapay-zeka-lehimleme
+
+### 2.3 Helyum Kaçak Test Makineleri (Helium Leak Detection)
+- **Açıklama:** Vakum odası teknolojisi ve kütle spektrometresi prensibi ile çalışan, mikron altı sızıntıları anında tespit eden test istasyonları.
+- **Özellikler:** Otomatik parça bağlama, helyum gazı geri kazanım ünitesi (helium recovery), sıfır hata toleransı.
+- **URL:** https://www.toyer.com.tr/urunler/helyum-kacak-test
+
+### 2.4 CNC Boru Bükme ve Şekillendirme Makineleri
+- **Açıklama:** Çelik, bakır ve alüminyum boruları yüksek hassasiyetle kesen, kıvıran ve 3 boyutta şekillendiren CNC makineler.
+- **Eksenler:** 3 eksen servo kontrol, mandrel desteği, otomatik besleme ve boy kesme entegrasyonu.
+- **URL:** https://www.toyer.com.tr/urunler/boru-sekillendirme
+
+### 2.5 Boru Ucu Şekillendirme ve Havşa Makineleri
+- **Açıklama:** Boru uçlarında genişletme, daraltma, boğum açma ve havşa oluşturma operasyonları için servo ve hidrolik kontrollü makineler.
+- **Kapasite:** 3 vuruşlu döner taret veya ardışık istasyon yapısı ile tek çevrimde çoklu operasyon.
+- **URL:** https://www.toyer.com.tr/urunler/boru-ucu-sekillendirme
+
+### 2.6 Isı Eşanjörü Boru Şişirme (Expander) Makineleri
+- **Açıklama:** Isı eşanjörü lamelleri ile bakır/alüminyum borular arasındaki termal teması mükemmelleştiren mekanik ve hidrolik genleşme makineleri.
+- **URL:** https://www.toyer.com.tr/urunler/isi-esanjoru
+
+### 2.7 Kangal Çözücü ve Doğrultma Makineleri
+- **Açıklama:** Rulo tel ve sac malzemelerin üretim hattına gerilimsiz ve doğrultulmuş olarak beslenmesini sağlayan motorlu ve servo tahrikli sistemler.
+- **URL:** https://www.toyer.com.tr/urunler/kangal-cozucu
+
+### 2.8 Buzdolabı Kurutucu Filtre & Silikajel Doldurma Makineleri
+- **Açıklama:** Soğutma çevrimlerinde kullanılan kurutucu filtrelerin içerisine hassas gramajda silikajel / moleküler elek doldurup filtre elemanlarını presleyen ve kapatan otomatik hat.
+- **URL:** https://www.toyer.com.tr/urunler/buzdolabi-kurutucu
+
+### 2.9 Titanyum Levha Süperplastik Şekillendirme Makineleri
+- **Açıklama:** Yüksek sıcaklık (850-950°C) ortamında gaz basıncı yardımıyla titanyum levhalara karmaşık geometriler kazandıran özel imalat makineleri. Havacılık ve savunma sanayii standartlarına uygundur.
+- **URL:** https://www.toyer.com.tr/urunler/titanyum-sekillendirme
+
+### 2.10 Endüstriyel Malzeme Takip Dolapları ve Akıllı Depolama
+- **Açıklama:** Fabrika ortamında özel takımların, kalıpların ve sarf malzemelerin anlık stok ve kullanıcı bazlı takibini sağlayan IoT bağlantılı akıllı dolaplar.
+- **URL:** https://www.toyer.com.tr/urunler/malzeme-takip
+
+## 3. Makine Parkı ve Üretim Kabiliyetleri
+TOYER tesislerinde tüm kritik parçalar kendi makine parkında mikron hassasiyetinde işlenir:
+- 5 Eksen CNC İşleme Merkezleri
+- 3 Eksen ve 3+2 Eksen CNC Frezeler
+- Tel Erozyon (Wire EDM) ve Dalma Erozyon Tezgahları
+- Hassas Taşlama ve Üniversal Torna Tezgahları
+- Kalite Kontrol Laboratuvarı ve 3D CMM Koordinat Ölçüm Cihazları
+
+## 4. İletişim Bilgileri
+- **Firma Ünvanı:** ATM Beyaz Eşya Parçaları San. ve Tic. Ltd. Şti. / TOYER Makine Teknolojileri
+- **Adres:** İnönü Gebze Güzeller OSB, Nursultan Nazarbayev Sokak No:17, 41400 Gebze / Kocaeli / Türkiye
+- **Telefon:** +90 262 751 47 61
+- **E-Posta:** info@toyer.com.tr
+- **Vergi Dairesi & No:** İlyasbey V.D. - 1030327091

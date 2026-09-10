@@ -1,0 +1,44 @@
+# TOYER Makine Teknolojileri
+
+> TOYER (ATM Beyaz Eşya Parçaları San. ve Tic. Ltd. Şti. bünyesinde), 1987 yılından bu yana endüstriyel makine imalatı, otomatik tel ve rezistans kaynak makineleri, CNC boru şekillendirme sistemleri, yapay zeka destekli sert lehimleme (brazing), helyum kaçak test odaları ve beyaz eşya / ısı eşanjörü üretim teknolojileri geliştiren, T.C. Sanayi ve Teknoloji Bakanlığı onaylı bir Tasarım Merkezi'dir.
+
+## Kurumsal Bilgiler / About TOYER & ATM
+- **Kuruluş:** 1987
+- **Tasarım Merkezi Onayı:** 2018 (T.C. Sanayi ve Teknoloji Bakanlığı)
+- **Tesisler:** 3 fabrika, 400+ çalışan, 40+ yüksek lisans/lisans/ön lisans dereceli teknik mühendislik kadrosu
+- **Lokasyon:** Güzeller OSB, Nursultan Nazarbayev Sokak No:17, 41400 Gebze, Kocaeli, Türkiye
+- **Resmi Web Sitesi:** https://www.toyer.com.tr
+- **Ana Şirket:** https://www.atm-tr.com
+- **İletişim:** info@toyer.com.tr | Tel: +90 262 751 47 61
+
+## Ana Sayfalar ve Bölümler / Main Pages
+- [Ana Sayfa (TR)](https://www.toyer.com.tr/): TOYER makine mühendisliği, ürün grupları ve kurumsal yetkinlikler.
+- [Home Page (EN)](https://www.toyer.com.tr/en/): TOYER machine manufacturing, product catalog, and engineering services.
+- [Ürün Portföyü (TR)](https://www.toyer.com.tr/urunler/): 13+ kategoride endüstriyel makine kataloğu.
+- [Product Portfolio (EN)](https://www.toyer.com.tr/en/products/): Complete machine catalog and technical specifications.
+- [Ar-Ge ve Tasarım Merkezi (TR)](https://www.toyer.com.tr/ar-ge/): KOSGEB ve TÜBİTAK projeleri, 10 tescilli patent, ticarileşen küresel buluşlar.
+- [R&D & Design Center (EN)](https://www.toyer.com.tr/en/r-and-d/): Government-supported projects, industrial property rights, and engineering innovations.
+- [Makine Parkımız (TR)](https://www.toyer.com.tr/makine-parkimiz/): 5 eksen ve 3+2 eksen CNC frezeler, tel erozyon, üniversal torna ve taşlama makineleri.
+- [Machine Park (EN)](https://www.toyer.com.tr/en/machine-park/): In-house precision machining infrastructure.
+- [Fotoğraf Galerisi (TR)](https://www.toyer.com.tr/galeri/): Fabrikadan ve üretilen makinelerden yüksek çözünürlüklü fotoğraflar.
+- [İnsan Kaynakları / Kariyer (TR)](https://www.toyer.com.tr/insan-kaynaklari/): Mühendislik, mekatronik ve teknisyen kariyer fırsatları.
+- [İletişim (TR)](https://www.toyer.com.tr/iletisim/): Gebze fabrika adresi, telefon, e-posta ve Google Maps konumu.
+
+## Temel Ürün Grupları / Key Product Lines
+- [Kaynak Makineleri](https://www.toyer.com.tr/urunler/kaynak-makineleri): Tek vuruşta 300 tel kaynatabilen tam otomatik kondanser rezistans kaynak makineleri.
+- [Yapay Zeka Destekli Lehimleme](https://www.toyer.com.tr/urunler/yapay-zeka-lehimleme): Bilgisayarlı görü (computer vision) ve makine öğrenmesi destekli tam otomatik hassas sert lehimleme (brazing) ve robotik tasnif hücresi.
+- [Helyum Kaçak Test Sistemleri](https://www.toyer.com.tr/urunler/helyum-kacak-test): Isı eşanjörleri ve soğutma devreleri için vakum odalı sıfır hata toleranslı test kabinleri.
+- [Boru Şekillendirme Makineleri](https://www.toyer.com.tr/urunler/boru-sekillendirme): Çelik, bakır ve alüminyum borular için 3 eksenli CNC boru bükme ve kıvırma makineleri.
+- [Boru Ucu Şekillendirme](https://www.toyer.com.tr/urunler/boru-ucu-sekillendirme): Servo ve hidrolik kontrollü, 3 vuruşlu havşa ve boru ucu form verme makineleri.
+- [Kangal Çözücü ve Doğrultma](https://www.toyer.com.tr/urunler/kangal-cozucu): Otomatik tel ve sac besleme için servo kontrollü kangal açıcı ve doğrultma makineleri.
+- [Isı Eşanjörü Boru Şişirme](https://www.toyer.com.tr/urunler/isi-esanjoru): Hassas hidrolik ve mekanik ekspander boru şişirme ekipmanları.
+- [Buzdolabı Kurutucu Filtre & Silikajel Doldurma](https://www.toyer.com.tr/urunler/buzdolabi-kurutucu): Nem alıcı kurutucu filtre dolum, presleme ve sızdırmazlık montaj makineleri.
+- [Titanyum Levha Süperplastik Şekillendirme](https://www.toyer.com.tr/urunler/titanyum-sekillendirme): Havacılık ve savunma sanayii için yüksek sıcaklıkta gaz basınçlı süperplastik şekillendirme fırın ve presleri.
+- [Çabuk Bağlantı Elemanları (Quick Couplings)](https://www.toyer.com.tr/urunler/quick-kaplinler): Endüstriyel test ve gaz dolum devreleri için hızlı kaplinler.
+- [Endüstriyel Akıllı Malzeme Takip Dolapları](https://www.toyer.com.tr/urunler/malzeme-takip): RFID ve barkod entegrasyonlu takım ve malzeme yönetim istasyonları.
+- [Sıcaklık ve Tıkanıklık İzleme Sistemleri](https://www.toyer.com.tr/urunler/sicaklik-tikaniklik-izleme): Çok noktalı sensör ağları ile ısı transfer hatlarında anlık teşhis üniteleri.
+
+## Teknik Standartlar ve Altyapı
+- **CAD/CAM:** Autodesk Inventor ve Siemens NX
+- **Otomasyon & PLC:** Siemens PLC, Siemens S7-1200 / S7-1500, HMI paneller, Endüstri 4.0 IoT ve Wi-Fi entegrasyonu
+- **Fikri Mülkiyet:** 10 tescilli patent, KOSGEB ve TÜBİTAK Ar-Ge projeleri
