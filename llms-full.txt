@@ -1,6 +1,6 @@
 # TOYER Makine Teknolojileri — Tam Dokümantasyon ve Ürün Kataloğu
 
-> TOYER (ATM Beyaz Eşya Parçaları San. ve Tic. Ltd. Şti. bünyesinde), 1987 yılından bu yana endüstriyel makine imalatı, otomatik tel ve rezistans kaynak makineleri, CNC boru şekillendirme sistemleri, yapay zeka destekli sert lehimleme (brazing), helyum kaçak test odaları ve beyaz eşya / ısı eşanjörü üretim teknolojileri geliştiren, T.C. Sanayi ve Teknoloji Bakanlığı onaylı bir Tasarım Merkezi'dir.
+> TOYER (ATM Isı Transfer Sanayi ve Ticaret A.Ş. bünyesinde), 1987 yılından bu yana endüstriyel makine imalatı, otomatik tel ve rezistans kaynak makineleri, CNC boru şekillendirme sistemleri, yapay zeka destekli sert lehimleme (brazing), helyum kaçak test odaları ve beyaz eşya / ısı eşanjörü üretim teknolojileri geliştiren, T.C. Sanayi ve Teknoloji Bakanlığı onaylı bir Tasarım Merkezi'dir.
 
 ## 1. Şirket Profili ve Tarihçe
 ATM grubu 1987 yılında kurulmuş olup, beyaz eşya yan sanayi ve ısı eşanjörleri imalatında Türkiye'nin öncü kuruluşlarındandır. Şirket bünyesindeki TOYER Makine Teknolojileri bölümü, üretim hatlarında kullanılan tüm özel proses makinelerini, robotik otomasyon hücrelerini, boru işleme hatlarını ve kalite kontrol test istasyonlarını kendi bünyesinde tasarlayıp imal etmektedir.
@@ -38,11 +38,19 @@ ATM grubu 1987 yılında kurulmuş olup, beyaz eşya yan sanayi ve ısı eşanj�
 - **Kapasite:** 3 vuruşlu döner taret veya ardışık istasyon yapısı ile tek çevrimde çoklu operasyon.
 - **URL:** https://www.toyer.com.tr/urunler/boru-ucu-sekillendirme
 
-### 2.6 Isı Eşanjörü Boru Şişirme (Expander) Makineleri
+### 2.6 Boru Şekillendirme Kalıpları
+- **Açıklama:** CNC freze, torna ve 3D printer ile üretilen kontrol jig ve proses kalıpları.
+- **URL:** https://www.toyer.com.tr/urunler/boru-sekillendirme-kalip
+
+### 2.7 Boru Kontrol Fikstürleri
+- **Açıklama:** Şekillendirilmiş boru boyutsal kontrol fikstürleri ve mastarları.
+- **URL:** https://www.toyer.com.tr/urunler/boru-kontrol-fiksturu
+
+### 2.8 Isı Eşanjörü Boru Şişirme (Expander) Makineleri
 - **Açıklama:** Isı eşanjörü lamelleri ile bakır/alüminyum borular arasındaki termal teması mükemmelleştiren mekanik ve hidrolik genleşme makineleri.
 - **URL:** https://www.toyer.com.tr/urunler/isi-esanjoru
 
-### 2.7 Kangal Çözücü ve Doğrultma Makineleri
+### 2.9 Kangal Çözücü ve Doğrultma Makineleri
 - **Açıklama:** Rulo tel ve sac malzemelerin üretim hattına gerilimsiz ve doğrultulmuş olarak beslenmesini sağlayan motorlu ve servo tahrikli sistemler.
 - **URL:** https://www.toyer.com.tr/urunler/kangal-cozucu
 
@@ -58,6 +66,10 @@ ATM grubu 1987 yılında kurulmuş olup, beyaz eşya yan sanayi ve ısı eşanj�
 - **Açıklama:** Fabrika ortamında özel takımların, kalıpların ve sarf malzemelerin anlık stok ve kullanıcı bazlı takibini sağlayan IoT bağlantılı akıllı dolaplar.
 - **URL:** https://www.toyer.com.tr/urunler/malzeme-takip
 
+### 2.11 Makara Taşıma ve Devirme Askıları
+- **Açıklama:** Ağır tel ve boru makaralarını (500 kg+) kaldırma, taşıma ve devirme ekipmanları.
+- **URL:** https://www.toyer.com.tr/urunler/makara-tasima
+
 ## 3. Makine Parkı ve Üretim Kabiliyetleri
 TOYER tesislerinde tüm kritik parçalar kendi makine parkında mikron hassasiyetinde işlenir:
 - 5 Eksen CNC İşleme Merkezleri
@@ -67,8 +79,12 @@ TOYER tesislerinde tüm kritik parçalar kendi makine parkında mikron hassasiye
 - Kalite Kontrol Laboratuvarı ve 3D CMM Koordinat Ölçüm Cihazları
 
 ## 4. İletişim Bilgileri
-- **Firma Ünvanı:** ATM Beyaz Eşya Parçaları San. ve Tic. Ltd. Şti. / TOYER Makine Teknolojileri
+- **Firma Ünvanı:** ATM Isı Transfer Sanayi ve Ticaret A.Ş. / TOYER Makine Teknolojileri
 - **Adres:** İnönü Gebze Güzeller OSB, Nursultan Nazarbayev Sokak No:17, 41400 Gebze / Kocaeli / Türkiye
 - **Telefon:** +90 262 751 47 61
 - **E-Posta:** info@toyer.com.tr
 - **Vergi Dairesi & No:** İlyasbey V.D. - 1030327091
+
+## 5. Grup Şirketleri / Group Companies
+- **ATM Isı Transfer Sanayi ve Ticaret A.Ş.** (https://www.atm-tr.com): Beyaz eşya ve otomotiv sektörleri için yüksek kaliteli ısı transfer bileşenleri üreticisi.
+- **Center on Digital (CoD)** (https://centerondigital.com): Siber güvenlik, veri koruma ve yapay zeka destekli yenilikçi bilişim çözümleri sağlayan teknoloji şirketi.
