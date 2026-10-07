@@ -56,6 +56,12 @@
 - [Sıcaklık ve Tıkanıklık İzleme Sistemleri (TR)](https://www.toyer.com.tr/urunler/sicaklik-tikaniklik-izleme): Çok noktalı sensör ağları ile ısı transfer hatlarında anlık teşhis üniteleri.
 - [Temperature and Blockage Monitoring Systems (EN)](https://www.toyer.com.tr/en/products/sicaklik-tikaniklik-izleme): Instant diagnostic units in heat transfer lines with multi-point sensor networks.
 
+## Blog
+- [Blog (TR)](https://www.toyer.com.tr/blog/): Ar-Ge çalışmaları, üretim teknolojileri ve endüstriyel otomasyon yazıları.
+- [Blog (EN)](https://www.toyer.com.tr/en/blog/): Articles on R&D, manufacturing technologies and industrial automation.
+- [Yapay Zeka ile Kalite Kontrol (TR)](https://www.toyer.com.tr/blog/yapay-zeka-ile-kalite-kontrol/): Kamera, termal görüntüleme ve derin öğrenme (YOLO, U-Net) ile indüksiyon ring lehim kontrolü; anomali tespiti (Autoencoder, Isolation Forest, LSTM) ile limit içinde kalan gizli hataları yakalayan akıllı ürün testi.
+- [AI-Powered Quality Control (EN)](https://www.toyer.com.tr/en/blog/ai-quality-control/): Camera and thermal-imaging based ring brazing inspection with deep learning, and anomaly-detection based smart product testing.
+
 ## Grup Şirketleri / Group Companies
 - **ATM Isı Transfer Sanayi ve Ticaret A.Ş.** (https://www.atm-tr.com): Beyaz eşya ve otomotiv sektörleri için yüksek kaliteli ısı transfer bileşenleri üreticisi.
 - **Center on Digital (CoD)** (https://centerondigital.com): Siber güvenlik, veri koruma ve yapay zeka destekli yenilikçi bilişim çözümleri sağlayan teknoloji şirketi.
