@@ -22,87 +22,87 @@ ATM grubu, beyaz eşya yan sanayi ve ısı eşanjörü imalatında Türkiye'nin 
 - **Açıklama:** Tam otomatik rezistans kaynak makineleri — bir vuruşta 300 tel. Kondanser, ısı eşanjörü ve endüstriyel kaynak uygulamaları. Otomatik, görüntü işlemeli sert lehim makineleri dahil.
 - Kondanser ve tel ızgara üretiminde tek vuruşta 300 teli aynı anda kaynatabilen, yüksek akım kontrollü tam otomatik rezistans kaynak makineleri.
 - Uygulama alanları: beyaz eşya soğutucu kondanserleri, evaporatörler, tel sepet ve ızgara imalatı.
-- **URL:** https://www.toyer.com.tr/atm-tr-t/urunler/kaynak-makineleri/ (EN: https://www.toyer.com.tr/atm-tr-t/en/products/welding-machines/)
+- **URL:** https://www.toyer.com.tr/toyer-t/urunler/kaynak-makineleri/ (EN: https://www.toyer.com.tr/toyer-t/en/products/welding-machines/)
 
 ### 2.2 Boru Şekillendirme Makineleri / Tube Forming Machines
 - **Açıklama:** Ana üretim kalemlerimizden biri de Boru Şekillendirmedir. Değişik çapta Çelik, Bakır ve Alüminyum boruları keser ve şekillendiririz.
 - Çelik, bakır ve alüminyum boruları kesen, büken ve 3 boyutta şekillendiren CNC makineler: servo kontrol, mandrel desteği, otomatik besleme ve boy kesme.
-- **URL:** https://www.toyer.com.tr/atm-tr-t/urunler/boru-sekillendirme/ (EN: https://www.toyer.com.tr/atm-tr-t/en/products/tube-forming/)
+- **URL:** https://www.toyer.com.tr/toyer-t/urunler/boru-sekillendirme/ (EN: https://www.toyer.com.tr/toyer-t/en/products/tube-forming/)
 
 ### 2.3 Boru Ucu Şekillendirme Makineleri / Tube End Forming Machines
 - **Açıklama:** Boru uçlarına hassas şekil vermek için tasarlanmış otomasyon makineleri. Isı eşanjörü ve klima sektörü boru işlemlerinde kullanılır.
 - Boru uçlarında genişletme, daraltma, boğum açma ve havşa operasyonları için servo ve hidrolik kontrollü makineler; döner taret veya ardışık istasyon yapısıyla tek çevrimde çoklu operasyon.
-- **URL:** https://www.toyer.com.tr/atm-tr-t/urunler/boru-ucu-sekillendirme/ (EN: https://www.toyer.com.tr/atm-tr-t/en/products/tube-end-forming/)
+- **URL:** https://www.toyer.com.tr/toyer-t/urunler/boru-ucu-sekillendirme/ (EN: https://www.toyer.com.tr/toyer-t/en/products/tube-end-forming/)
 
 ### 2.4 Boru Şekillendirme Kalıp / Tube Forming Dies
 - **Açıklama:** Boru şekillendirme operasyonları için yüksek hassasiyetli kalıplar. Bünyemizde CNC işlenerek üretilir.
 - CNC freze, torna ve 3D yazıcı ile üretilen proses kalıpları ve kontrol jigleri.
-- **URL:** https://www.toyer.com.tr/atm-tr-t/urunler/boru-sekillendirme-kalip/ (EN: https://www.toyer.com.tr/atm-tr-t/en/products/tube-forming-dies/)
+- **URL:** https://www.toyer.com.tr/toyer-t/urunler/boru-sekillendirme-kalip/ (EN: https://www.toyer.com.tr/toyer-t/en/products/tube-forming-dies/)
 
 ### 2.5 Helyum Kaçak Test Makineleri / Helium Leak Test Machines
 - **Açıklama:** Sıfır hata toleransıyla helium kaçak testi. Isı eşanjörü kalite güvencesinde endüstri standardı makine geliştirdik.
 - Kondanser ve borulardaki kılcal kaçaklar için helyum kaçak test sistemleri: vakum odası (chamber) testi, sniffer (koklama) çözümleri, helyum geri toplama makineleri ve basınç farkı yöntemleri.
-- **URL:** https://www.toyer.com.tr/atm-tr-t/urunler/helyum-kacak-test/ (EN: https://www.toyer.com.tr/atm-tr-t/en/products/helium-leak-test/)
+- **URL:** https://www.toyer.com.tr/toyer-t/urunler/helyum-kacak-test/ (EN: https://www.toyer.com.tr/toyer-t/en/products/helium-leak-test/)
 
 ### 2.6 Isı Eşanjörü Boru Şişirme / Heat Exchanger Tube Expansion
 - **Açıklama:** Isı eşanjörü üretiminde kullanılan boru şişirme makineleri — hassas basınç kontrolü ile.
 - Isı eşanjörü lamelleri ile bakır / alüminyum borular arasındaki termal teması sağlayan mekanik ve hidrolik boru şişirme (expander) makineleri.
-- **URL:** https://www.toyer.com.tr/atm-tr-t/urunler/isi-esanjoru/ (EN: https://www.toyer.com.tr/atm-tr-t/en/products/heat-exchanger/)
+- **URL:** https://www.toyer.com.tr/toyer-t/urunler/isi-esanjoru/ (EN: https://www.toyer.com.tr/toyer-t/en/products/heat-exchanger/)
 
 ### 2.7 Buzdolabı Kurutucu Filitre / Silikajel Doldurma / Refrigerator Dryer Filter / Silica Gel Filling
 - **Açıklama:** Buzdolabı ve klima sistemleri için kurutucu filitre ve silikajel doldurma & kapatma makineleri.
 - Soğutma çevrimlerinde kullanılan kurutucu filtrelere hassas gramajda silikajel / moleküler elek dolduran, presleyen ve kapatan otomatik hat.
-- **URL:** https://www.toyer.com.tr/atm-tr-t/urunler/buzdolabi-kurutucu/ (EN: https://www.toyer.com.tr/atm-tr-t/en/products/refrigerator-dryer/)
+- **URL:** https://www.toyer.com.tr/toyer-t/urunler/buzdolabi-kurutucu/ (EN: https://www.toyer.com.tr/toyer-t/en/products/refrigerator-dryer/)
 
 ### 2.8 Yapay Zeka Entegrasyonlu Lehimleme / AI-Integrated Brazing
 - **Açıklama:** Görüntü işlemeli, yapay zeka destekli tam otomatik sert lehimleme sistemi. Makine öğrenmesi ile hata tespiti.
 - Endüstriyel kameralar, yapay zeka destekli görüntü işleme ve otomatik alev / indüksiyon kontrolü ile boru bağlantılarını lehimleyen sistem.
 - Proses öncesi konum tespiti, gerçek zamanlı sıcaklık ve alev kontrolü, proses sonrası kalite doğrulaması ve hatalı parçayı ayıran robotik tasnif hücresi.
-- **URL:** https://www.toyer.com.tr/atm-tr-t/urunler/yapay-zeka-lehimleme/ (EN: https://www.toyer.com.tr/atm-tr-t/en/products/ai-brazing/)
+- **URL:** https://www.toyer.com.tr/toyer-t/urunler/yapay-zeka-lehimleme/ (EN: https://www.toyer.com.tr/toyer-t/en/products/ai-brazing/)
 
 ### 2.9 Titanyum Levha Süperplastik Şekillendirme / Titanium Sheet Superplastic Forming
 - **Açıklama:** Titanyum levhaların süperplastik şekillendirme işlemi için özel makine — savunma sanayii ve havacılık uygulamaları.
 - 850–950 °C'de gaz basıncıyla titanyum levhalara karmaşık geometriler kazandıran süperplastik şekillendirme makineleri; havacılık ve savunma uygulamaları.
-- **URL:** https://www.toyer.com.tr/atm-tr-t/urunler/titanyum-sekillendirme/ (EN: https://www.toyer.com.tr/atm-tr-t/en/products/titanium-forming/)
+- **URL:** https://www.toyer.com.tr/toyer-t/urunler/titanyum-sekillendirme/ (EN: https://www.toyer.com.tr/toyer-t/en/products/titanium-forming/)
 
 ### 2.10 Çabuk Bağlantı Elemanları (Quick Kaplinler) / Quick Couplings
 - **Açıklama:** Endüstriyel uygulamalar için tasarlanmış hızlı bağlantı kaplin sistemleri.
-- **URL:** https://www.toyer.com.tr/atm-tr-t/urunler/quick-kaplinler/ (EN: https://www.toyer.com.tr/atm-tr-t/en/products/quick-couplings/)
+- **URL:** https://www.toyer.com.tr/toyer-t/urunler/quick-kaplinler/ (EN: https://www.toyer.com.tr/toyer-t/en/products/quick-couplings/)
 
 ### 2.11 Endüstriyel Malzeme Takip Dolapları / Industrial Material Tracking Cabinets
 - **Açıklama:** Üretim hatlarında malzeme ve takım takibini otomatikleştiren akıllı dolap sistemleri.
 - Takım, kalıp ve sarf malzemelerinin anlık stok ve kullanıcı bazlı takibini sağlayan IoT bağlantılı akıllı dolaplar; ağırlık sensörü tabanlı envanter takibi.
-- **URL:** https://www.toyer.com.tr/atm-tr-t/urunler/malzeme-takip/ (EN: https://www.toyer.com.tr/atm-tr-t/en/products/material-tracking/)
+- **URL:** https://www.toyer.com.tr/toyer-t/urunler/malzeme-takip/ (EN: https://www.toyer.com.tr/toyer-t/en/products/material-tracking/)
 
 ### 2.12 Otomatik Tel Kangal Çözücüleri / Automatic Wire Coil Decoilers
 - **Açıklama:** Kaynak teli kangallarının otomatik beslenmesi için çözücü sistemler. Duruş süresini sıfıra indirir.
 - Rulo tel ve sac malzemeyi üretim hattına gerilimsiz ve doğrultulmuş olarak besleyen motorlu ve servo tahrikli kangal çözücüler.
-- **URL:** https://www.toyer.com.tr/atm-tr-t/urunler/kangal-cozucu/ (EN: https://www.toyer.com.tr/atm-tr-t/en/products/coil-decoiler/)
+- **URL:** https://www.toyer.com.tr/toyer-t/urunler/kangal-cozucu/ (EN: https://www.toyer.com.tr/toyer-t/en/products/coil-decoiler/)
 
 ### 2.13 Makara Taşıma ve Devirme Askıları / Spool Handling and Tilting Hangers
 - **Açıklama:** Ağır makara ve kangalların ergonomik taşıma ve devirme operasyonları için özel askı sistemleri.
 - 500 kg üzeri tel ve boru makaralarını kaldırma, taşıma ve devirme ekipmanları.
-- **URL:** https://www.toyer.com.tr/atm-tr-t/urunler/makara-tasima/ (EN: https://www.toyer.com.tr/atm-tr-t/en/products/spool-handling/)
+- **URL:** https://www.toyer.com.tr/toyer-t/urunler/makara-tasima/ (EN: https://www.toyer.com.tr/toyer-t/en/products/spool-handling/)
 
 ### 2.14 Boru Kontrol Fikstürleri / Tube Inspection Fixtures
 - **Açıklama:** Boru işleme hatlarında boyutsal kontrol için hassas fikstürler. Hatalı üretimi anında yakalar.
 - Şekillendirilmiş borular için boyutsal kontrol fikstürleri ve mastarlar.
-- **URL:** https://www.toyer.com.tr/atm-tr-t/urunler/boru-kontrol-fiksturu/ (EN: https://www.toyer.com.tr/atm-tr-t/en/products/tube-inspection-fixtures/)
+- **URL:** https://www.toyer.com.tr/toyer-t/urunler/boru-kontrol-fiksturu/ (EN: https://www.toyer.com.tr/toyer-t/en/products/tube-inspection-fixtures/)
 
 ### 2.15 Robot Uygulamalı Test Sistemleri / Robotic Testing Systems
 - **Açıklama:** Otomatik üretim hatlarına entegre edilebilen, endüstriyel robot destekli kalite kontrol ve test sistemleri.
-- **URL:** https://www.toyer.com.tr/atm-tr-t/urunler/robot-uygulamali-test/ (EN: https://www.toyer.com.tr/atm-tr-t/en/products/robotic-testing/)
+- **URL:** https://www.toyer.com.tr/toyer-t/urunler/robot-uygulamali-test/ (EN: https://www.toyer.com.tr/toyer-t/en/products/robotic-testing/)
 
 ### 2.16 Sıcaklık Takibi ile Tıkanıklık Takibi / Temperature & Blockage Monitoring
 - **Açıklama:** Sıcaklık ve akışkan değerlerini anlık olarak izleyerek sistemdeki tıkanıklıkları anında tespit eden gelişmiş izleme üniteleri.
-- **URL:** https://www.toyer.com.tr/atm-tr-t/urunler/sicaklik-takibi-tikaniklik/ (EN: https://www.toyer.com.tr/atm-tr-t/en/products/temperature-blockage-monitoring/)
+- **URL:** https://www.toyer.com.tr/toyer-t/urunler/sicaklik-takibi-tikaniklik/ (EN: https://www.toyer.com.tr/toyer-t/en/products/temperature-blockage-monitoring/)
 
 ### 2.17 Kılcal Boru Çekimi İmalat Hattı / Capillary Tube Drawing Production Line
 - **Açıklama:** Kılcal (kapiler) boru imalatı için tasarlanmış yüksek hassasiyetli tam entegre çekim ve doğrultma hattı.
-- **URL:** https://www.toyer.com.tr/atm-tr-t/urunler/kilcal-boru-cekimi/ (EN: https://www.toyer.com.tr/atm-tr-t/en/products/capillary-tube-drawing/)
+- **URL:** https://www.toyer.com.tr/toyer-t/urunler/kilcal-boru-cekimi/ (EN: https://www.toyer.com.tr/toyer-t/en/products/capillary-tube-drawing/)
 
 ## 3. Ar-Ge ve Tasarım Merkezi
-Kaynak: https://www.toyer.com.tr/atm-tr-t/ar-ge/ (EN: https://www.toyer.com.tr/atm-tr-t/en/r-and-d/)
+Kaynak: https://www.toyer.com.tr/toyer-t/ar-ge/ (EN: https://www.toyer.com.tr/toyer-t/en/r-and-d/)
 
 ### 3.1 KOSGEB ve TÜBİTAK destekli Ar-Ge projeleri (6)
 - 2008 · 7081055: Kondanser imalatı için dikey makine geliştirme çalışması
@@ -184,7 +184,7 @@ Kaynak: https://www.toyer.com.tr/atm-tr-t/ar-ge/ (EN: https://www.toyer.com.tr/a
 - **KOSGEB:** Ar-Ge ve inovasyon destekli projeler (https://www.kosgeb.gov.tr)
 
 ## 4. Makine Parkı
-Kritik parçalar TOYER'in kendi makine parkında işlenir (https://www.toyer.com.tr/atm-tr-t/makine-parkimiz/):
+Kritik parçalar TOYER'in kendi makine parkında işlenir (https://www.toyer.com.tr/toyer-t/makine-parkimiz/):
 - 5 eksen CNC işleme merkezleri
 - 3 eksen ve 3+2 eksen CNC frezeler
 - Tel erozyon (wire EDM) ve dalma erozyon tezgahları
@@ -192,21 +192,21 @@ Kritik parçalar TOYER'in kendi makine parkında işlenir (https://www.toyer.com
 - Kalite kontrol laboratuvarı ve 3D CMM koordinat ölçüm cihazları
 
 ## 5. Blog
-- **ABD Tasarım Patenti US D785,151 S: Düşük Bakımlı ATM Kondenser** (2026-11-02) https://www.toyer.com.tr/atm-tr-t/blog/abd-tasarim-patenti-atm-kondanser/
+- **ABD Tasarım Patenti US D785,151 S: Düşük Bakımlı ATM Kondenser** (2026-11-02) https://www.toyer.com.tr/toyer-t/blog/abd-tasarim-patenti-atm-kondanser/
   Tel ve küçük çaplı çelik borudan üretilen, tıkanmayan ve periyodik temizlik gerektirmeyen ATM Kondenser'in tasarımı ABD Patent ve Marka Ofisi (USPTO) tarafından tescillendi. Patent çizimleri ve ürünün arkasındaki mühendislik.
-  EN: US Design Patent D785,151 S: The Low-Maintenance ATM Condenser https://www.toyer.com.tr/atm-tr-t/en/blog/us-design-patent-atm-condenser/
-- **Yapay Zeka ile Kalite Kontrol: Ring Lehim Muayenesi ve Akıllı Ürün Testi** (2026-10-05) https://www.toyer.com.tr/atm-tr-t/blog/yapay-zeka-ile-kalite-kontrol/
+  EN: US Design Patent D785,151 S: The Low-Maintenance ATM Condenser https://www.toyer.com.tr/toyer-t/en/blog/us-design-patent-atm-condenser/
+- **Yapay Zeka ile Kalite Kontrol: Ring Lehim Muayenesi ve Akıllı Ürün Testi** (2026-10-05) https://www.toyer.com.tr/toyer-t/blog/yapay-zeka-ile-kalite-kontrol/
   Kamera ve derin öğrenme ile indüksiyon ring lehim bağlantılarını gerçek zamanlı denetlemek, test istasyonlarında limit içinde kalan gizli hataları yakalamak: iki projede tek hedef, hatasız ürün.
-  EN: AI-Powered Quality Control: Ring Brazing Inspection and Smart Product Testing https://www.toyer.com.tr/atm-tr-t/en/blog/ai-quality-control/
-- **Bakanlık Onaylı Tasarım Merkezimiz: Tasarımdan Üretime Mühendislik** (2026-09-01) https://www.toyer.com.tr/atm-tr-t/blog/tasarim-merkezi/
+  EN: AI-Powered Quality Control: Ring Brazing Inspection and Smart Product Testing https://www.toyer.com.tr/toyer-t/en/blog/ai-quality-control/
+- **Bakanlık Onaylı Tasarım Merkezimiz: Tasarımdan Üretime Mühendislik** (2026-09-01) https://www.toyer.com.tr/toyer-t/blog/tasarim-merkezi/
   2018'den beri T.C. Sanayi ve Teknoloji Bakanlığı onaylı Tasarım Merkezimizde ısı pompasından R290'a, -90°C uygulamalardan taşıt soğutmasına uzanan tasarım projeleri, KOSGEB ve TÜBİTAK destekli Ar-Ge ve üniversite iş birlikleri.
-  EN: Our Ministry-Approved Design Center: Engineering from Design to Production https://www.toyer.com.tr/atm-tr-t/en/blog/design-center/
-- **Telli Kondanser Üretim Hattı: Kangaldan Bitmiş Kondansere** (2026-02-11) https://www.toyer.com.tr/atm-tr-t/blog/telli-kondanser-uretim-hatti/
+  EN: Our Ministry-Approved Design Center: Engineering from Design to Production https://www.toyer.com.tr/toyer-t/en/blog/design-center/
+- **Telli Kondanser Üretim Hattı: Kangaldan Bitmiş Kondansere** (2026-02-11) https://www.toyer.com.tr/toyer-t/blog/telli-kondanser-uretim-hatti/
   Kangal çözmeden serpantin bükmeye, tek vuruşta 300 tel kaynaklayan rezistans kaynak makinesinden helyum kaçak testine: telli kondanser üretim hattının her adımı ve 1987'den beri kendi hatlarımızda kanıtlanan TOYER makineleri.
-  EN: Wire-on-Tube Condenser Production Line: From Coil to Finished Condenser https://www.toyer.com.tr/atm-tr-t/en/blog/wire-on-tube-condenser-production-line/
-- **Helyum Kaçak Testi: Isı Eşanjörü ve Kondenser Üretiminde Doğru Yöntemi Seçmek** (2026-01-12) https://www.toyer.com.tr/atm-tr-t/blog/helyum-kacak-testi/
+  EN: Wire-on-Tube Condenser Production Line: From Coil to Finished Condenser https://www.toyer.com.tr/toyer-t/en/blog/wire-on-tube-condenser-production-line/
+- **Helyum Kaçak Testi: Isı Eşanjörü ve Kondenser Üretiminde Doğru Yöntemi Seçmek** (2026-01-12) https://www.toyer.com.tr/toyer-t/blog/helyum-kacak-testi/
   Kılcal kaçaklar gözle görülmez, sahada ortaya çıkar. Neden helyum, vakum odası, sniffer, geri toplama ve basınç farkı yöntemleri nasıl çalışır ve TOYER bu testleri üretim hattınıza nasıl entegre eder?
-  EN: Helium Leak Testing: Choosing the Right Method for Heat Exchanger and Condenser Production https://www.toyer.com.tr/atm-tr-t/en/blog/helium-leak-testing/
+  EN: Helium Leak Testing: Choosing the Right Method for Heat Exchanger and Condenser Production https://www.toyer.com.tr/toyer-t/en/blog/helium-leak-testing/
 
 ## 6. İletişim
 - **Firma ünvanı:** ATM Isı Transfer Sanayi ve Ticaret A.Ş. / TOYER Makine Teknolojileri
@@ -215,7 +215,7 @@ Kritik parçalar TOYER'in kendi makine parkında işlenir (https://www.toyer.com
 - **E-posta:** info@toyer.com.tr
 - **MERSİS No:** 0859059849900017
 - **Ticaret Sicil No:** Gebze Ticaret Sicili Müdürlüğü - 33725
-- **İletişim sayfası:** https://www.toyer.com.tr/atm-tr-t/iletisim/
+- **İletişim sayfası:** https://www.toyer.com.tr/toyer-t/iletisim/
 
 ## 7. Grup Şirketleri / Group Companies
 - **ATM Isı Transfer Sanayi ve Ticaret A.Ş.** (https://www.atm-tr.com): Beyaz eşya, iklimlendirme ve ticari soğutma sektörleri için ısı transfer bileşenleri üreticisi; Düşük Bakımlı ATM Kondenser'in (US D785,151 S) üreticisi.
