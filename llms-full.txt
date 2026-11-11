@@ -16,7 +16,7 @@ ATM grubu, beyaz eşya yan sanayi ve ısı eşanjörü imalatında Türkiye'nin 
 - **Destek ve onay kurumları:** TÜBİTAK, T.C. Sanayi ve Teknoloji Bakanlığı, KOSGEB
 - **Üniversite iş birlikleri:** Manisa Celal Bayar Üniversitesi, Sakarya Üniversitesi, Marmara Üniversitesi, Kocaeli Üniversitesi, Düzce Üniversitesi
 
-## 2. Ürün Kataloğu (17 ürün grubu)
+## 2. Ürün Kataloğu (31 ürün grubu)
 
 ### 2.1 Kaynak Makineleri / Welding Machines
 - **Açıklama:** Tam otomatik rezistans kaynak makineleri — bir vuruşta 300 tel. Kondanser, ısı eşanjörü ve endüstriyel kaynak uygulamaları. Otomatik, görüntü işlemeli sert lehim makineleri dahil.
@@ -100,6 +100,62 @@ ATM grubu, beyaz eşya yan sanayi ve ısı eşanjörü imalatında Türkiye'nin 
 ### 2.17 Kılcal Boru Çekimi İmalat Hattı / Capillary Tube Drawing Production Line
 - **Açıklama:** Kılcal (kapiler) boru imalatı için tasarlanmış yüksek hassasiyetli tam entegre çekim ve doğrultma hattı.
 - **URL:** https://www.toyer.com.tr/toyer-t/urunler/kilcal-boru-cekimi/ (EN: https://www.toyer.com.tr/toyer-t/en/products/capillary-tube-drawing/)
+
+### 2.18 Braket Punta Makinesi / Bracket Spot Welding Machine
+- **Açıklama:** Braketlerin punta (nokta) kaynağı ile birleştirilmesi için kaynak makinesi.
+- **URL:** https://www.toyer.com.tr/toyer-t/urunler/ (EN: https://www.toyer.com.tr/toyer-t/en/products/)
+
+### 2.19 Otomatik Tel Beslemeli Punta Makinesi / Automatic Wire-Fed Spot Welding Machine
+- **Açıklama:** Otomatik tel beslemeli punta kaynak makinesi.
+- **URL:** https://www.toyer.com.tr/toyer-t/urunler/ (EN: https://www.toyer.com.tr/toyer-t/en/products/)
+
+### 2.20 Oksijen Otomatik Besleme Lehim Makineleri / Oxygen Brazing Machines with Automatic Feeding
+- **Açıklama:** Oksijen ile çalışan, otomatik beslemeli lehim makineleri.
+- **URL:** https://www.toyer.com.tr/toyer-t/urunler/ (EN: https://www.toyer.com.tr/toyer-t/en/products/)
+
+### 2.21 İndüksiyon Lehim Makinesi / Induction Brazing Machine
+- **Açıklama:** İndüksiyon ile ısıtarak lehimleme yapan makine.
+- **URL:** https://www.toyer.com.tr/toyer-t/urunler/ (EN: https://www.toyer.com.tr/toyer-t/en/products/)
+
+### 2.22 Otomasyon & YZ Lehim Makinesi / Automation & AI Brazing Machine
+- **Açıklama:** Otomasyon ve yapay zeka destekli lehim makinesi.
+- **URL:** https://www.toyer.com.tr/toyer-t/urunler/ (EN: https://www.toyer.com.tr/toyer-t/en/products/)
+
+### 2.23 3 Eksen Boru Bükme Makinesi / 3-Axis Tube Bending Machine
+- **Açıklama:** Boruları üç eksende büken makine.
+- **URL:** https://www.toyer.com.tr/toyer-t/urunler/ (EN: https://www.toyer.com.tr/toyer-t/en/products/)
+
+### 2.24 Boru Sıvama Makinesi / Tube Spinning Machine
+- **Açıklama:** Boruları sıvama yöntemiyle şekillendiren makine.
+- **URL:** https://www.toyer.com.tr/toyer-t/urunler/ (EN: https://www.toyer.com.tr/toyer-t/en/products/)
+
+### 2.25 Boru Havşa Makinesi / Tube Flaring Machine
+- **Açıklama:** Boru uçlarına havşa açan makine.
+- **URL:** https://www.toyer.com.tr/toyer-t/urunler/ (EN: https://www.toyer.com.tr/toyer-t/en/products/)
+
+### 2.26 Robot ile Kaçak Koklama (Sniffer) / Robotic Leak Sniffing
+- **Açıklama:** Robot ile koklama (sniffer) yöntemiyle kaçak tespiti yapan sistem.
+- **URL:** https://www.toyer.com.tr/toyer-t/urunler/ (EN: https://www.toyer.com.tr/toyer-t/en/products/)
+
+### 2.27 Fırın Kontrol Otomasyonu / Furnace Control Automation
+- **Açıklama:** Fırınlar için kontrol otomasyonu.
+- **URL:** https://www.toyer.com.tr/toyer-t/urunler/ (EN: https://www.toyer.com.tr/toyer-t/en/products/)
+
+### 2.28 İndüksiyon ile Isıtma ve Kaynak Sistemleri / Induction Heating and Welding Systems
+- **Açıklama:** İndüksiyon ile ısıtma ve kaynak sistemleri.
+- **URL:** https://www.toyer.com.tr/toyer-t/urunler/ (EN: https://www.toyer.com.tr/toyer-t/en/products/)
+
+### 2.29 Hidrolik Pres / Hydraulic Press
+- **Açıklama:** Hidrolik presler.
+- **URL:** https://www.toyer.com.tr/toyer-t/urunler/ (EN: https://www.toyer.com.tr/toyer-t/en/products/)
+
+### 2.30 Upkant Pres / Press Brake
+- **Açıklama:** Sac bükme için upkant presler.
+- **URL:** https://www.toyer.com.tr/toyer-t/urunler/ (EN: https://www.toyer.com.tr/toyer-t/en/products/)
+
+### 2.31 Robot ile Pick and Place Çözümleri / Robotic Pick and Place Solutions
+- **Açıklama:** Robot ile parça alma ve yerleştirme (pick and place) çözümleri.
+- **URL:** https://www.toyer.com.tr/toyer-t/urunler/ (EN: https://www.toyer.com.tr/toyer-t/en/products/)
 
 ## 3. Ar-Ge ve Tasarım Merkezi
 Kaynak: https://www.toyer.com.tr/toyer-t/ar-ge/ (EN: https://www.toyer.com.tr/toyer-t/en/r-and-d/)

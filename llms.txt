@@ -52,6 +52,20 @@
 - [Robot Uygulamalı Test Sistemleri (TR)](https://www.toyer.com.tr/toyer-t/urunler/robot-uygulamali-test/): Otomatik üretim hatlarına entegre edilebilen, endüstriyel robot destekli kalite kontrol ve test sistemleri.
 - [Sıcaklık Takibi ile Tıkanıklık Takibi (TR)](https://www.toyer.com.tr/toyer-t/urunler/sicaklik-takibi-tikaniklik/): Sıcaklık ve akışkan değerlerini anlık olarak izleyerek sistemdeki tıkanıklıkları anında tespit eden gelişmiş izleme üniteleri.
 - [Kılcal Boru Çekimi İmalat Hattı (TR)](https://www.toyer.com.tr/toyer-t/urunler/kilcal-boru-cekimi/): Kılcal (kapiler) boru imalatı için tasarlanmış yüksek hassasiyetli tam entegre çekim ve doğrultma hattı.
+- [Braket Punta Makinesi (TR)](https://www.toyer.com.tr/toyer-t/urunler/): Braketlerin punta (nokta) kaynağı ile birleştirilmesi için kaynak makinesi.
+- [Otomatik Tel Beslemeli Punta Makinesi (TR)](https://www.toyer.com.tr/toyer-t/urunler/): Otomatik tel beslemeli punta kaynak makinesi.
+- [Oksijen Otomatik Besleme Lehim Makineleri (TR)](https://www.toyer.com.tr/toyer-t/urunler/): Oksijen ile çalışan, otomatik beslemeli lehim makineleri.
+- [İndüksiyon Lehim Makinesi (TR)](https://www.toyer.com.tr/toyer-t/urunler/): İndüksiyon ile ısıtarak lehimleme yapan makine.
+- [Otomasyon & YZ Lehim Makinesi (TR)](https://www.toyer.com.tr/toyer-t/urunler/): Otomasyon ve yapay zeka destekli lehim makinesi.
+- [3 Eksen Boru Bükme Makinesi (TR)](https://www.toyer.com.tr/toyer-t/urunler/): Boruları üç eksende büken makine.
+- [Boru Sıvama Makinesi (TR)](https://www.toyer.com.tr/toyer-t/urunler/): Boruları sıvama yöntemiyle şekillendiren makine.
+- [Boru Havşa Makinesi (TR)](https://www.toyer.com.tr/toyer-t/urunler/): Boru uçlarına havşa açan makine.
+- [Robot ile Kaçak Koklama (Sniffer) (TR)](https://www.toyer.com.tr/toyer-t/urunler/): Robot ile koklama (sniffer) yöntemiyle kaçak tespiti yapan sistem.
+- [Fırın Kontrol Otomasyonu (TR)](https://www.toyer.com.tr/toyer-t/urunler/): Fırınlar için kontrol otomasyonu.
+- [İndüksiyon ile Isıtma ve Kaynak Sistemleri (TR)](https://www.toyer.com.tr/toyer-t/urunler/): İndüksiyon ile ısıtma ve kaynak sistemleri.
+- [Hidrolik Pres (TR)](https://www.toyer.com.tr/toyer-t/urunler/): Hidrolik presler.
+- [Upkant Pres (TR)](https://www.toyer.com.tr/toyer-t/urunler/): Sac bükme için upkant presler.
+- [Robot ile Pick and Place Çözümleri (TR)](https://www.toyer.com.tr/toyer-t/urunler/): Robot ile parça alma ve yerleştirme (pick and place) çözümleri.
 - [Welding Machines (EN)](https://www.toyer.com.tr/toyer-t/en/products/welding-machines/): Fully automatic resistance welding machines — 300 wires in a single stroke. Condenser, heat exchanger and industrial welding applications. Including automatic, vision-based brazing machines.
 - [Tube Forming Machines (EN)](https://www.toyer.com.tr/toyer-t/en/products/tube-forming/): One of our main production lines is Tube Forming. We cut and form steel, copper and aluminium tubes in various diameters.
 - [Tube End Forming Machines (EN)](https://www.toyer.com.tr/toyer-t/en/products/tube-end-forming/): Automation machines designed for precise tube end shaping. Used in heat exchanger and HVAC sector tube operations.
@@ -69,6 +83,20 @@
 - [Robotic Testing Systems (EN)](https://www.toyer.com.tr/toyer-t/en/products/robotic-testing/): Quality control and testing systems supported by industrial robots, integratable into automatic production lines.
 - [Temperature & Blockage Monitoring (EN)](https://www.toyer.com.tr/toyer-t/en/products/temperature-blockage-monitoring/): Advanced monitoring units that instantly detect blockages by tracking temperature and fluid values in real time.
 - [Capillary Tube Drawing Production Line (EN)](https://www.toyer.com.tr/toyer-t/en/products/capillary-tube-drawing/): High-precision fully integrated drawing and straightening line designed for capillary tube manufacturing.
+- [Bracket Spot Welding Machine (EN)](https://www.toyer.com.tr/toyer-t/en/products/): Welding machine for joining brackets by spot welding.
+- [Automatic Wire-Fed Spot Welding Machine (EN)](https://www.toyer.com.tr/toyer-t/en/products/): Spot welding machine with automatic wire feeding.
+- [Oxygen Brazing Machines with Automatic Feeding (EN)](https://www.toyer.com.tr/toyer-t/en/products/): Oxygen-fuelled brazing machines with automatic feeding.
+- [Induction Brazing Machine (EN)](https://www.toyer.com.tr/toyer-t/en/products/): Machine that brazes using induction heating.
+- [Automation & AI Brazing Machine (EN)](https://www.toyer.com.tr/toyer-t/en/products/): Brazing machine with automation and AI support.
+- [3-Axis Tube Bending Machine (EN)](https://www.toyer.com.tr/toyer-t/en/products/): Machine that bends tubes on three axes.
+- [Tube Spinning Machine (EN)](https://www.toyer.com.tr/toyer-t/en/products/): Machine that forms tubes by spinning.
+- [Tube Flaring Machine (EN)](https://www.toyer.com.tr/toyer-t/en/products/): Machine that flares tube ends.
+- [Robotic Leak Sniffing (EN)](https://www.toyer.com.tr/toyer-t/en/products/): System that detects leaks with a robot-guided sniffer.
+- [Furnace Control Automation (EN)](https://www.toyer.com.tr/toyer-t/en/products/): Control automation for furnaces.
+- [Induction Heating and Welding Systems (EN)](https://www.toyer.com.tr/toyer-t/en/products/): Induction heating and welding systems.
+- [Hydraulic Press (EN)](https://www.toyer.com.tr/toyer-t/en/products/): Hydraulic presses.
+- [Press Brake (EN)](https://www.toyer.com.tr/toyer-t/en/products/): Press brakes for sheet metal bending.
+- [Robotic Pick and Place Solutions (EN)](https://www.toyer.com.tr/toyer-t/en/products/): Robotic pick-and-place solutions.
 
 ## Blog
 - [Blog (TR)](https://www.toyer.com.tr/toyer-t/blog/): Ar-Ge çalışmaları, patentler, yapay zeka destekli kalite kontrol ve üretim teknolojileri yazıları.
