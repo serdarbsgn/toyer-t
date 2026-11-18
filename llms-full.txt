@@ -127,8 +127,8 @@ ATM grubu, beyaz eşya yan sanayi ve ısı eşanjörü imalatında Türkiye'nin 
 - **URL:** https://www.toyer.com.tr/toyer-t/urunler/ (EN: https://www.toyer.com.tr/toyer-t/en/products/)
 
 ### 2.24 Boru Sıvama Makinesi / Tube Spinning Machine
-- **Açıklama:** Boruları sıvama yöntemiyle şekillendiren makine.
-- **URL:** https://www.toyer.com.tr/toyer-t/urunler/ (EN: https://www.toyer.com.tr/toyer-t/en/products/)
+- **Açıklama:** Boruları sıvama yöntemiyle şekillendiren makine. Boru makineye sürülür ve dönen kalıp içinde şekillendirilir.
+- **URL:** https://www.toyer.com.tr/toyer-t/urunler/boru-sivama-makinesi/ (EN: https://www.toyer.com.tr/toyer-t/en/products/tube-spinning-machine/)
 
 ### 2.25 Servo Boru Havşa Makinesi / Servo Tube Flaring Machine
 - **Açıklama:** Boru uçlarına servo kontrollü havşa açan makine.
@@ -155,12 +155,12 @@ ATM grubu, beyaz eşya yan sanayi ve ısı eşanjörü imalatında Türkiye'nin 
 - **URL:** https://www.toyer.com.tr/toyer-t/urunler/ (EN: https://www.toyer.com.tr/toyer-t/en/products/)
 
 ### 2.31 Pnömatik Pres / Pneumatic Press
-- **Açıklama:** Pnömatik presler.
-- **URL:** https://www.toyer.com.tr/toyer-t/urunler/ (EN: https://www.toyer.com.tr/toyer-t/en/products/)
+- **Açıklama:** Sac ve şerit parçaları basınçlı hava ile çalışan kalıplarda hızlı ve tekrarlanabilir şekilde basan pres.
+- **URL:** https://www.toyer.com.tr/toyer-t/urunler/pnomatik-pres/ (EN: https://www.toyer.com.tr/toyer-t/en/products/pneumatic-press/)
 
 ### 2.32 Abkant Pres / Press Brake
-- **Açıklama:** Sac bükme için abkant presler.
-- **URL:** https://www.toyer.com.tr/toyer-t/urunler/ (EN: https://www.toyer.com.tr/toyer-t/en/products/)
+- **Açıklama:** Sac panelleri istenen açıda büken abkant pres.
+- **URL:** https://www.toyer.com.tr/toyer-t/urunler/abkant-pres/ (EN: https://www.toyer.com.tr/toyer-t/en/products/press-brake/)
 
 ## 3. Ar-Ge ve Tasarım Merkezi
 Kaynak: https://www.toyer.com.tr/toyer-t/ar-ge/ (EN: https://www.toyer.com.tr/toyer-t/en/r-and-d/)
@@ -256,6 +256,7 @@ Kritik parçalar TOYER'in kendi makine parkında işlenir (https://www.toyer.com
 - 2 şerit testere (Kesmak) ile bünyede hammadde hazırlığı
 - Ölçüm & laboratuvar: mikro sertlik (bakır boru) ve Rockwell/Brinell sertlik ölçme, çekme deney cihazı, kirlilik testi (rotary evaporatör, etüv, hassas terazi), kül fırını
 - 3D printer ile hızlı prototipleme ve kısa süreli fikstür imalatı
+- Hexagon Absolute Arm: taşınabilir koordinat ölçüm kolu ve lazer tarayıcı; bükülü bakır boru gibi parçaların CAD modeliyle 3B karşılaştırması
 
 ## 5. Blog
 - **Yapay Zeka ile Kalite Kontrol: Ring Lehim Muayenesi ve Akıllı Ürün Testi** (2026-10-05) https://www.toyer.com.tr/toyer-t/blog/yapay-zeka-ile-kalite-kontrol/

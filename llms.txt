@@ -23,8 +23,8 @@
 - [Products (EN)](https://www.toyer.com.tr/toyer-t/en/products/): Catalog of welding, tube forming, leak testing, brazing and automation machines.
 - [Ar-Ge (TR)](https://www.toyer.com.tr/toyer-t/ar-ge/): KOSGEB / TÜBİTAK destekli Ar-Ge projeleri, Tasarım Merkezi projeleri, tescilli buluşlar (ABD tasarım patenti ve PCT başvurusu dahil) ve üniversitelerle akademik danışmanlık.
 - [R&D (EN)](https://www.toyer.com.tr/toyer-t/en/r-and-d/): KOSGEB / TÜBİTAK funded R&D projects, Design Center projects, registered inventions (including a US design patent and a PCT application) and academic consultancy with universities.
-- [Makine Parkımız (TR)](https://www.toyer.com.tr/toyer-t/makine-parkimiz/): 5 eksen ve 3 eksen CNC freze, manuel freze, torna, taşlama, şerit testere, ölçüm laboratuvarı ve 3D printer.
-- [Machine Park (EN)](https://www.toyer.com.tr/toyer-t/en/machine-park/): In-house machining: 5-axis and 3-axis CNC milling, manual milling, turning, grinding, band saws, a measurement lab and a 3D printer.
+- [Makine Parkımız (TR)](https://www.toyer.com.tr/toyer-t/makine-parkimiz/): 5 eksen ve 3 eksen CNC freze, manuel freze, torna, taşlama, şerit testere, ölçüm laboratuvarı, Hexagon 3B ölçüm kolu ve 3D printer.
+- [Machine Park (EN)](https://www.toyer.com.tr/toyer-t/en/machine-park/): In-house machining: 5-axis and 3-axis CNC milling, manual milling, turning, grinding, band saws, a measurement lab, a Hexagon 3D measuring arm and a 3D printer.
 - [Galeri (TR)](https://www.toyer.com.tr/toyer-t/galeri/): Fabrikadan ve üretilen makinelerden fotoğraflar.
 - [Gallery (EN)](https://www.toyer.com.tr/toyer-t/en/gallery/): Photos of the factory and the machines we build.
 - [İnsan Kaynakları (TR)](https://www.toyer.com.tr/toyer-t/insan-kaynaklari/): Mühendislik, mekatronik ve teknisyen kariyer fırsatları.
@@ -58,15 +58,15 @@
 - [Bakır Kollektör Lehim Makinesi (TR)](https://www.toyer.com.tr/toyer-t/urunler/): Bakır kollektörlerin lehimlenmesi için otomatik lehim makinesi.
 - [Otomatik Döner Lehim Makinesi (TR)](https://www.toyer.com.tr/toyer-t/urunler/otomatik-doner-lehim/): Döner tablalı, tam otomatik lehim makinesi. Oksijen otomatik besleme, indüksiyon ile lehimleme ve otomasyon & yapay zeka desteğini tek makinede birleştirir.
 - [3 Eksen Boru Bükme Makinesi (TR)](https://www.toyer.com.tr/toyer-t/urunler/): Boruları üç eksende büken makine.
-- [Boru Sıvama Makinesi (TR)](https://www.toyer.com.tr/toyer-t/urunler/): Boruları sıvama yöntemiyle şekillendiren makine.
+- [Boru Sıvama Makinesi (TR)](https://www.toyer.com.tr/toyer-t/urunler/boru-sivama-makinesi/): Boruları sıvama yöntemiyle şekillendiren makine. Boru makineye sürülür ve dönen kalıp içinde şekillendirilir.
 - [Servo Boru Havşa Makinesi (TR)](https://www.toyer.com.tr/toyer-t/urunler/): Boru uçlarına servo kontrollü havşa açan makine.
 - [Pnömatik Boru Havşa Makinesi (TR)](https://www.toyer.com.tr/toyer-t/urunler/): Boru uçlarına pnömatik tahrikle havşa açan makine.
 - [Hidrolik Boru Havşa Makinesi (TR)](https://www.toyer.com.tr/toyer-t/urunler/): Boru uçlarına hidrolik tahrikle havşa açan makine.
 - [Fırın Kontrol Otomasyonu (TR)](https://www.toyer.com.tr/toyer-t/urunler/firin-kontrol-otomasyonu/): Konveyör hızından bağımsız olarak fırın sıcaklığını sabit tutan kontrol otomasyonu. Sıcaklık tepeleri olmadan, kontrollü aç-kapa döngüleriyle daha yüksek verim ve daha düşük işletme maliyeti.
 - [İndüksiyon ile Isıtma ve Kaynak Sistemleri (TR)](https://www.toyer.com.tr/toyer-t/urunler/): İndüksiyon ile ısıtma ve kaynak sistemleri.
 - [Hidrolik Pres (TR)](https://www.toyer.com.tr/toyer-t/urunler/): Hidrolik presler.
-- [Pnömatik Pres (TR)](https://www.toyer.com.tr/toyer-t/urunler/): Pnömatik presler.
-- [Abkant Pres (TR)](https://www.toyer.com.tr/toyer-t/urunler/): Sac bükme için abkant presler.
+- [Pnömatik Pres (TR)](https://www.toyer.com.tr/toyer-t/urunler/pnomatik-pres/): Sac ve şerit parçaları basınçlı hava ile çalışan kalıplarda hızlı ve tekrarlanabilir şekilde basan pres.
+- [Abkant Pres (TR)](https://www.toyer.com.tr/toyer-t/urunler/abkant-pres/): Sac panelleri istenen açıda büken abkant pres.
 - [Welding Machines (EN)](https://www.toyer.com.tr/toyer-t/en/products/welding-machines/): Fully automatic resistance welding machines — 300 wires in a single stroke. Condenser, heat exchanger and industrial welding applications. Including automatic, vision-based brazing machines.
 - [Tube Forming Machines (EN)](https://www.toyer.com.tr/toyer-t/en/products/tube-forming/): One of our main production lines is Tube Forming. We cut and form steel, copper and aluminium tubes in various diameters.
 - [Tube End Forming Machines (EN)](https://www.toyer.com.tr/toyer-t/en/products/tube-end-forming/): Automation machines designed for precise tube end shaping. Used in heat exchanger and HVAC sector tube operations.
@@ -90,15 +90,15 @@
 - [Copper Header Brazing Machine (EN)](https://www.toyer.com.tr/toyer-t/en/products/): Automatic brazing machine for copper headers.
 - [Automatic Rotary Brazing Machine (EN)](https://www.toyer.com.tr/toyer-t/en/products/rotary-brazing/): Fully automatic brazing machine with a rotary indexing table. Combines automatic oxygen feeding, induction brazing and automation & AI support in one machine.
 - [3-Axis Tube Bending Machine (EN)](https://www.toyer.com.tr/toyer-t/en/products/): Machine that bends tubes on three axes.
-- [Tube Spinning Machine (EN)](https://www.toyer.com.tr/toyer-t/en/products/): Machine that forms tubes by spinning.
+- [Tube Spinning Machine (EN)](https://www.toyer.com.tr/toyer-t/en/products/tube-spinning-machine/): Machine that forms tubes by spinning. The tube is fed in and formed inside the rotating die.
 - [Servo Tube Flaring Machine (EN)](https://www.toyer.com.tr/toyer-t/en/products/): Machine that flares tube ends with servo control.
 - [Pneumatic Tube Flaring Machine (EN)](https://www.toyer.com.tr/toyer-t/en/products/): Machine that flares tube ends with pneumatic drive.
 - [Hydraulic Tube Flaring Machine (EN)](https://www.toyer.com.tr/toyer-t/en/products/): Machine that flares tube ends with hydraulic drive.
 - [Furnace Control Automation (EN)](https://www.toyer.com.tr/toyer-t/en/products/furnace-control-automation/): Control automation that keeps oven temperature steady regardless of conveyor speed. No temperature peaks and controlled on/off cycles, for higher efficiency and lower operating costs.
 - [Induction Heating and Welding Systems (EN)](https://www.toyer.com.tr/toyer-t/en/products/): Induction heating and welding systems.
 - [Hydraulic Press (EN)](https://www.toyer.com.tr/toyer-t/en/products/): Hydraulic presses.
-- [Pneumatic Press (EN)](https://www.toyer.com.tr/toyer-t/en/products/): Pneumatic presses.
-- [Press Brake (EN)](https://www.toyer.com.tr/toyer-t/en/products/): Press brakes for sheet metal bending.
+- [Pneumatic Press (EN)](https://www.toyer.com.tr/toyer-t/en/products/pneumatic-press/): Press that forms sheet and strip parts quickly and repeatably in air-driven dies.
+- [Press Brake (EN)](https://www.toyer.com.tr/toyer-t/en/products/press-brake/): Press brake that bends sheet metal panels to the required angle.
 
 ## Blog
 - [Blog (TR)](https://www.toyer.com.tr/toyer-t/blog/): Ar-Ge çalışmaları, patentler, yapay zeka destekli kalite kontrol ve üretim teknolojileri yazıları.
