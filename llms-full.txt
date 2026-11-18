@@ -16,7 +16,7 @@ ATM grubu, beyaz eşya yan sanayi ve ısı eşanjörü imalatında Türkiye'nin 
 - **Destek ve onay kurumları:** TÜBİTAK, T.C. Sanayi ve Teknoloji Bakanlığı, KOSGEB
 - **Üniversite iş birlikleri:** Manisa Celal Bayar Üniversitesi, Sakarya Üniversitesi, Marmara Üniversitesi, Kocaeli Üniversitesi, Düzce Üniversitesi
 
-## 2. Ürün Kataloğu (31 ürün grubu)
+## 2. Ürün Kataloğu (32 ürün grubu)
 
 ### 2.1 Kaynak Makineleri / Welding Machines
 - **Açıklama:** Tam otomatik rezistans kaynak makineleri — bir vuruşta 300 tel. Kondanser, ısı eşanjörü ve endüstriyel kaynak uygulamaları. Otomatik, görüntü işlemeli sert lehim makineleri dahil.
@@ -154,7 +154,11 @@ ATM grubu, beyaz eşya yan sanayi ve ısı eşanjörü imalatında Türkiye'nin 
 - **Açıklama:** Hidrolik presler.
 - **URL:** https://www.toyer.com.tr/toyer-t/urunler/ (EN: https://www.toyer.com.tr/toyer-t/en/products/)
 
-### 2.31 Abkant Pres / Press Brake
+### 2.31 Pnömatik Pres / Pneumatic Press
+- **Açıklama:** Pnömatik presler.
+- **URL:** https://www.toyer.com.tr/toyer-t/urunler/ (EN: https://www.toyer.com.tr/toyer-t/en/products/)
+
+### 2.32 Abkant Pres / Press Brake
 - **Açıklama:** Sac bükme için abkant presler.
 - **URL:** https://www.toyer.com.tr/toyer-t/urunler/ (EN: https://www.toyer.com.tr/toyer-t/en/products/)
 
@@ -250,25 +254,25 @@ Kritik parçalar TOYER'in kendi makine parkında işlenir (https://www.toyer.com
 - 3 eksen CNC freze (QUASER MV154, 600×400×500 mm): fikstür, montaj aparatı ve kalıp plakaları
 - 2 manuel freze (ARİON 6 / VOLGA 3), 3 torna (TRENS SN 50), yüzey taşlama (Super Lec STP 1428ADH)
 - 2 şerit testere (Kesmak) ile bünyede hammadde hazırlığı
-- Ölçüm & laboratuvar: bakır boru ve demir sertlik ölçme, çekme deney cihazı
+- Ölçüm & laboratuvar: mikro sertlik (bakır boru) ve Rockwell/Brinell sertlik ölçme, çekme deney cihazı, kirlilik testi (rotary evaporatör, etüv, hassas terazi), kül fırını
 - 3D printer ile hızlı prototipleme ve kısa süreli fikstür imalatı
 
 ## 5. Blog
-- **ABD Tasarım Patenti US D785,151 S: Düşük Bakımlı ATM Kondenser** (2026-11-02) https://www.toyer.com.tr/toyer-t/blog/abd-tasarim-patenti-atm-kondanser/
-  Tel ve küçük çaplı çelik borudan üretilen, tıkanmayan ve periyodik temizlik gerektirmeyen ATM Kondenser'in tasarımı ABD Patent ve Marka Ofisi (USPTO) tarafından tescillendi. Patent çizimleri ve ürünün arkasındaki mühendislik.
-  EN: US Design Patent D785,151 S: The Low-Maintenance ATM Condenser https://www.toyer.com.tr/toyer-t/en/blog/us-design-patent-atm-condenser/
 - **Yapay Zeka ile Kalite Kontrol: Ring Lehim Muayenesi ve Akıllı Ürün Testi** (2026-10-05) https://www.toyer.com.tr/toyer-t/blog/yapay-zeka-ile-kalite-kontrol/
   Kamera ve derin öğrenme ile indüksiyon ring lehim bağlantılarını gerçek zamanlı denetlemek, test istasyonlarında limit içinde kalan gizli hataları yakalamak: iki projede tek hedef, hatasız ürün.
   EN: AI-Powered Quality Control: Ring Brazing Inspection and Smart Product Testing https://www.toyer.com.tr/toyer-t/en/blog/ai-quality-control/
-- **Bakanlık Onaylı Tasarım Merkezimiz: Tasarımdan Üretime Mühendislik** (2026-09-01) https://www.toyer.com.tr/toyer-t/blog/tasarim-merkezi/
+- **Bakanlık Onaylı Tasarım Merkezimiz: Tasarımdan Üretime Mühendislik** (2025-11-20) https://www.toyer.com.tr/toyer-t/blog/tasarim-merkezi/
   2018'den beri T.C. Sanayi ve Teknoloji Bakanlığı onaylı Tasarım Merkezimizde ısı pompasından R290'a, -90°C uygulamalardan taşıt soğutmasına uzanan tasarım projeleri, KOSGEB ve TÜBİTAK destekli Ar-Ge ve üniversite iş birlikleri.
   EN: Our Ministry-Approved Design Center: Engineering from Design to Production https://www.toyer.com.tr/toyer-t/en/blog/design-center/
-- **Telli Kondanser Üretim Hattı: Kangaldan Bitmiş Kondansere** (2026-02-11) https://www.toyer.com.tr/toyer-t/blog/telli-kondanser-uretim-hatti/
+- **Telli Kondanser Üretim Hattı: Kangaldan Bitmiş Kondansere** (2024-09-18) https://www.toyer.com.tr/toyer-t/blog/telli-kondanser-uretim-hatti/
   Kangal çözmeden serpantin bükmeye, tek vuruşta 300 tel kaynaklayan rezistans kaynak makinesinden helyum kaçak testine: telli kondanser üretim hattının her adımı ve 1987'den beri kendi hatlarımızda kanıtlanan TOYER makineleri.
   EN: Wire-on-Tube Condenser Production Line: From Coil to Finished Condenser https://www.toyer.com.tr/toyer-t/en/blog/wire-on-tube-condenser-production-line/
-- **Helyum Kaçak Testi: Isı Eşanjörü ve Kondenser Üretiminde Doğru Yöntemi Seçmek** (2026-01-12) https://www.toyer.com.tr/toyer-t/blog/helyum-kacak-testi/
+- **Helyum Kaçak Testi: Isı Eşanjörü ve Kondenser Üretiminde Doğru Yöntemi Seçmek** (2023-06-14) https://www.toyer.com.tr/toyer-t/blog/helyum-kacak-testi/
   Kılcal kaçaklar gözle görülmez, sahada ortaya çıkar. Neden helyum, vakum odası, sniffer, geri toplama ve basınç farkı yöntemleri nasıl çalışır ve TOYER bu testleri üretim hattınıza nasıl entegre eder?
   EN: Helium Leak Testing: Choosing the Right Method for Heat Exchanger and Condenser Production https://www.toyer.com.tr/toyer-t/en/blog/helium-leak-testing/
+- **ABD Tasarım Patenti US D785,151 S: Düşük Bakımlı ATM Kondenser** (2022-04-12) https://www.toyer.com.tr/toyer-t/blog/abd-tasarim-patenti-atm-kondanser/
+  Tel ve küçük çaplı çelik borudan üretilen, tıkanmayan ve periyodik temizlik gerektirmeyen ATM Kondenser'in tasarımı ABD Patent ve Marka Ofisi (USPTO) tarafından tescillendi. Patent çizimleri ve ürünün arkasındaki mühendislik.
+  EN: US Design Patent D785,151 S: The Low-Maintenance ATM Condenser https://www.toyer.com.tr/toyer-t/en/blog/us-design-patent-atm-condenser/
 
 ## 6. İletişim
 - **Firma ünvanı:** ATM Isı Transfer Sanayi ve Ticaret A.Ş. / TOYER Makine Teknolojileri

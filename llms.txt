@@ -65,6 +65,7 @@
 - [Fırın Kontrol Otomasyonu (TR)](https://www.toyer.com.tr/toyer-t/urunler/firin-kontrol-otomasyonu/): Konveyör hızından bağımsız olarak fırın sıcaklığını sabit tutan kontrol otomasyonu. Sıcaklık tepeleri olmadan, kontrollü aç-kapa döngüleriyle daha yüksek verim ve daha düşük işletme maliyeti.
 - [İndüksiyon ile Isıtma ve Kaynak Sistemleri (TR)](https://www.toyer.com.tr/toyer-t/urunler/): İndüksiyon ile ısıtma ve kaynak sistemleri.
 - [Hidrolik Pres (TR)](https://www.toyer.com.tr/toyer-t/urunler/): Hidrolik presler.
+- [Pnömatik Pres (TR)](https://www.toyer.com.tr/toyer-t/urunler/): Pnömatik presler.
 - [Abkant Pres (TR)](https://www.toyer.com.tr/toyer-t/urunler/): Sac bükme için abkant presler.
 - [Welding Machines (EN)](https://www.toyer.com.tr/toyer-t/en/products/welding-machines/): Fully automatic resistance welding machines — 300 wires in a single stroke. Condenser, heat exchanger and industrial welding applications. Including automatic, vision-based brazing machines.
 - [Tube Forming Machines (EN)](https://www.toyer.com.tr/toyer-t/en/products/tube-forming/): One of our main production lines is Tube Forming. We cut and form steel, copper and aluminium tubes in various diameters.
@@ -96,13 +97,12 @@
 - [Furnace Control Automation (EN)](https://www.toyer.com.tr/toyer-t/en/products/furnace-control-automation/): Control automation that keeps oven temperature steady regardless of conveyor speed. No temperature peaks and controlled on/off cycles, for higher efficiency and lower operating costs.
 - [Induction Heating and Welding Systems (EN)](https://www.toyer.com.tr/toyer-t/en/products/): Induction heating and welding systems.
 - [Hydraulic Press (EN)](https://www.toyer.com.tr/toyer-t/en/products/): Hydraulic presses.
+- [Pneumatic Press (EN)](https://www.toyer.com.tr/toyer-t/en/products/): Pneumatic presses.
 - [Press Brake (EN)](https://www.toyer.com.tr/toyer-t/en/products/): Press brakes for sheet metal bending.
 
 ## Blog
 - [Blog (TR)](https://www.toyer.com.tr/toyer-t/blog/): Ar-Ge çalışmaları, patentler, yapay zeka destekli kalite kontrol ve üretim teknolojileri yazıları.
 - [Blog (EN)](https://www.toyer.com.tr/toyer-t/en/blog/): Articles on R&D, patents, AI-powered quality control and manufacturing technologies.
-- [ABD Tasarım Patenti US D785,151 S: Düşük Bakımlı ATM Kondenser (TR)](https://www.toyer.com.tr/toyer-t/blog/abd-tasarim-patenti-atm-kondanser/): Tel ve küçük çaplı çelik borudan üretilen, tıkanmayan ve periyodik temizlik gerektirmeyen ATM Kondenser'in tasarımı ABD Patent ve Marka Ofisi (USPTO) tarafından tescillendi. Patent çizimleri ve ürünün arkasındaki mühendislik.
-- [US Design Patent D785,151 S: The Low-Maintenance ATM Condenser (EN)](https://www.toyer.com.tr/toyer-t/en/blog/us-design-patent-atm-condenser/): The design of the ATM Condenser, built from wire and small-diameter steel tube so it never clogs and needs no periodic cleaning, is registered with the US Patent and Trademark Office (USPTO). The patent drawings and the engineering behind the product.
 - [Yapay Zeka ile Kalite Kontrol: Ring Lehim Muayenesi ve Akıllı Ürün Testi (TR)](https://www.toyer.com.tr/toyer-t/blog/yapay-zeka-ile-kalite-kontrol/): Kamera ve derin öğrenme ile indüksiyon ring lehim bağlantılarını gerçek zamanlı denetlemek, test istasyonlarında limit içinde kalan gizli hataları yakalamak: iki projede tek hedef, hatasız ürün.
 - [AI-Powered Quality Control: Ring Brazing Inspection and Smart Product Testing (EN)](https://www.toyer.com.tr/toyer-t/en/blog/ai-quality-control/): Inspecting induction ring brazed joints in real time with cameras and deep learning, and catching hidden defects that stay within test limits: two projects, one goal, zero-defect products.
 - [Bakanlık Onaylı Tasarım Merkezimiz: Tasarımdan Üretime Mühendislik (TR)](https://www.toyer.com.tr/toyer-t/blog/tasarim-merkezi/): 2018'den beri T.C. Sanayi ve Teknoloji Bakanlığı onaylı Tasarım Merkezimizde ısı pompasından R290'a, -90°C uygulamalardan taşıt soğutmasına uzanan tasarım projeleri, KOSGEB ve TÜBİTAK destekli Ar-Ge ve üniversite iş birlikleri.
@@ -111,6 +111,8 @@
 - [Wire-on-Tube Condenser Production Line: From Coil to Finished Condenser (EN)](https://www.toyer.com.tr/toyer-t/en/blog/wire-on-tube-condenser-production-line/): From wire decoiling and serpentine tube forming to resistance welding of 300 wires in a single stroke and helium leak testing: every step of a wire-on-tube condenser line, built with TOYER machines proven on our own lines since 1987.
 - [Helyum Kaçak Testi: Isı Eşanjörü ve Kondenser Üretiminde Doğru Yöntemi Seçmek (TR)](https://www.toyer.com.tr/toyer-t/blog/helyum-kacak-testi/): Kılcal kaçaklar gözle görülmez, sahada ortaya çıkar. Neden helyum, vakum odası, sniffer, geri toplama ve basınç farkı yöntemleri nasıl çalışır ve TOYER bu testleri üretim hattınıza nasıl entegre eder?
 - [Helium Leak Testing: Choosing the Right Method for Heat Exchanger and Condenser Production (EN)](https://www.toyer.com.tr/toyer-t/en/blog/helium-leak-testing/): Microscopic leaks are invisible on the line and only show up in the field. Why helium, how vacuum chamber, sniffer, recovery and pressure-difference methods work, and how TOYER builds them into your production line.
+- [ABD Tasarım Patenti US D785,151 S: Düşük Bakımlı ATM Kondenser (TR)](https://www.toyer.com.tr/toyer-t/blog/abd-tasarim-patenti-atm-kondanser/): Tel ve küçük çaplı çelik borudan üretilen, tıkanmayan ve periyodik temizlik gerektirmeyen ATM Kondenser'in tasarımı ABD Patent ve Marka Ofisi (USPTO) tarafından tescillendi. Patent çizimleri ve ürünün arkasındaki mühendislik.
+- [US Design Patent D785,151 S: The Low-Maintenance ATM Condenser (EN)](https://www.toyer.com.tr/toyer-t/en/blog/us-design-patent-atm-condenser/): The design of the ATM Condenser, built from wire and small-diameter steel tube so it never clogs and needs no periodic cleaning, is registered with the US Patent and Trademark Office (USPTO). The patent drawings and the engineering behind the product.
 
 ## Grup Şirketleri / Group Companies
 - **ATM Isı Transfer Sanayi ve Ticaret A.Ş.** (https://www.atm-tr.com): Beyaz eşya, iklimlendirme ve ticari soğutma sektörleri için ısı transfer bileşenleri üreticisi; Düşük Bakımlı ATM Kondenser'in (US D785,151 S) üreticisi.
