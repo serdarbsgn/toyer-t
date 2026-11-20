@@ -19,8 +19,8 @@ ATM grubu, beyaz eşya yan sanayi ve ısı eşanjörü imalatında Türkiye'nin 
 ## 2. Ürün Kataloğu (32 ürün grubu)
 
 ### 2.1 Kaynak Makineleri / Welding Machines
-- **Açıklama:** Tam otomatik rezistans kaynak makineleri — bir vuruşta 300 tel. Kondanser, ısı eşanjörü ve endüstriyel kaynak uygulamaları. Otomatik, görüntü işlemeli sert lehim makineleri dahil.
-- Kondanser ve tel ızgara üretiminde tek vuruşta 300 teli aynı anda kaynatabilen, yüksek akım kontrollü tam otomatik rezistans kaynak makineleri.
+- **Açıklama:** Tam otomatik rezistans kaynak makineleri — bir vuruşta 120 punta. Kondanser, ısı eşanjörü ve endüstriyel kaynak uygulamaları. Otomatik, görüntü işlemeli sert lehim makineleri dahil.
+- Kondanser ve tel ızgara üretiminde tek vuruşta 120 punta yapabilen, yüksek akım kontrollü tam otomatik rezistans kaynak makineleri.
 - Uygulama alanları: beyaz eşya soğutucu kondanserleri, evaporatörler, tel sepet ve ızgara imalatı.
 - **URL:** https://www.toyer.com.tr/toyer-t/urunler/kaynak-makineleri/ (EN: https://www.toyer.com.tr/toyer-t/en/products/welding-machines/)
 
@@ -67,7 +67,7 @@ ATM grubu, beyaz eşya yan sanayi ve ısı eşanjörü imalatında Türkiye'nin 
 - **URL:** https://www.toyer.com.tr/toyer-t/urunler/titanyum-sekillendirme/ (EN: https://www.toyer.com.tr/toyer-t/en/products/titanium-forming/)
 
 ### 2.10 Çabuk Bağlantı Elemanları (Quick Kaplinler) / Quick Couplings
-- **Açıklama:** Endüstriyel uygulamalar için tasarlanmış hızlı bağlantı kaplin sistemleri.
+- **Açıklama:** Helyum kaçak, debi ve soğutma test hatları için 1,2–9,52 mm çaplarda tırnaklı test, helyum ve kılcal debi quick kaplinleri.
 - **URL:** https://www.toyer.com.tr/toyer-t/urunler/quick-kaplinler/ (EN: https://www.toyer.com.tr/toyer-t/en/products/quick-couplings/)
 
 ### 2.11 Endüstriyel Malzeme Takip Dolapları / Industrial Material Tracking Cabinets
@@ -266,7 +266,7 @@ Kritik parçalar TOYER'in kendi makine parkında işlenir (https://www.toyer.com
   2018'den beri T.C. Sanayi ve Teknoloji Bakanlığı onaylı Tasarım Merkezimizde ısı pompasından R290'a, -90°C uygulamalardan taşıt soğutmasına uzanan tasarım projeleri, KOSGEB ve TÜBİTAK destekli Ar-Ge ve üniversite iş birlikleri.
   EN: Our Ministry-Approved Design Center: Engineering from Design to Production https://www.toyer.com.tr/toyer-t/en/blog/design-center/
 - **Telli Kondanser Üretim Hattı: Kangaldan Bitmiş Kondansere** (2024-09-18) https://www.toyer.com.tr/toyer-t/blog/telli-kondanser-uretim-hatti/
-  Kangal çözmeden serpantin bükmeye, tek vuruşta 300 tel kaynaklayan rezistans kaynak makinesinden helyum kaçak testine: telli kondanser üretim hattının her adımı ve 1987'den beri kendi hatlarımızda kanıtlanan TOYER makineleri.
+  Kangal çözmeden serpantin bükmeye, tek vuruşta 120 punta yapan rezistans kaynak makinesinden helyum kaçak testine: telli kondanser üretim hattının her adımı ve 1987'den beri kendi hatlarımızda kanıtlanan TOYER makineleri.
   EN: Wire-on-Tube Condenser Production Line: From Coil to Finished Condenser https://www.toyer.com.tr/toyer-t/en/blog/wire-on-tube-condenser-production-line/
 - **Helyum Kaçak Testi: Isı Eşanjörü ve Kondenser Üretiminde Doğru Yöntemi Seçmek** (2023-06-14) https://www.toyer.com.tr/toyer-t/blog/helyum-kacak-testi/
   Kılcal kaçaklar gözle görülmez, sahada ortaya çıkar. Neden helyum, vakum odası, sniffer, geri toplama ve basınç farkı yöntemleri nasıl çalışır ve TOYER bu testleri üretim hattınıza nasıl entegre eder?
