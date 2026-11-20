@@ -251,11 +251,11 @@ Kaynak: https://www.toyer.com.tr/toyer-t/ar-ge/ (EN: https://www.toyer.com.tr/to
 ## 4. Makine Parkı
 Kritik parçalar TOYER'in kendi makine parkında işlenir (https://www.toyer.com.tr/toyer-t/makine-parkimiz/):
 - 5 eksen CNC freze (DMG MORI CMX 70 U, Ø800 mm): kanatçık kalıpları ve karmaşık kalıp elemanları tek bağlamada
-- 3 eksen CNC freze (QUASER MV154, 600×400×500 mm): fikstür, montaj aparatı ve kalıp plakaları
-- 2 manuel freze (ARİON 6 / VOLGA 3), 3 torna (TRENS SN 50), yüzey taşlama (Super Lec STP 1428ADH)
+- 3 eksen CNC freze (QUASER MV154C, 600×400×500 mm): fikstür, montaj aparatı ve kalıp plakaları
+- 2 manuel freze (ARİON 6 / VOLGA 3), 3 torna (TRENS SN 50C), yüzey taşlama (SUPERTEC STP-1428ADH)
 - 2 şerit testere (Kesmak) ile bünyede hammadde hazırlığı
 - Ölçüm & laboratuvar: mikro sertlik (bakır boru) ve Rockwell/Brinell sertlik ölçme, çekme deney cihazı, kirlilik testi (rotary evaporatör, etüv, hassas terazi), kül fırını
-- 3D printer ile hızlı prototipleme ve kısa süreli fikstür imalatı
+- 3D yazıcı (ELEGOO Neptune 4 Max, 420×420×480 mm) ile hızlı prototipleme, mastar, fikstür ve aparat imalatı
 - Hexagon Absolute Arm: taşınabilir koordinat ölçüm kolu ve lazer tarayıcı; bükülü bakır boru gibi parçaların CAD modeliyle 3B karşılaştırması
 
 ## 5. Blog
