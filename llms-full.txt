@@ -16,7 +16,7 @@ ATM grubu, beyaz eşya yan sanayi ve ısı eşanjörü imalatında Türkiye'nin 
 - **Destek ve onay kurumları:** TÜBİTAK, T.C. Sanayi ve Teknoloji Bakanlığı, KOSGEB
 - **Üniversite iş birlikleri:** Manisa Celal Bayar Üniversitesi, Sakarya Üniversitesi, Marmara Üniversitesi, Kocaeli Üniversitesi, Düzce Üniversitesi
 
-## 2. Ürün Kataloğu (32 ürün grubu)
+## 2. Ürün Kataloğu (34 ürün grubu)
 
 ### 2.1 Kaynak Makineleri / Welding Machines
 - **Açıklama:** Tam otomatik rezistans kaynak makineleri — bir vuruşta 120 punta. Kondanser, ısı eşanjörü ve endüstriyel kaynak uygulamaları. Otomatik, görüntü işlemeli sert lehim makineleri dahil.
@@ -118,47 +118,57 @@ ATM grubu, beyaz eşya yan sanayi ve ısı eşanjörü imalatında Türkiye'nin 
 - **Açıklama:** Bakır kollektörlerin lehimlenmesi için otomatik lehim makinesi.
 - **URL:** https://www.toyer.com.tr/toyer-t/urunler/ (EN: https://www.toyer.com.tr/toyer-t/en/products/)
 
-### 2.22 Otomatik Döner Lehim Makinesi / Automatic Rotary Brazing Machine
+### 2.22 Otomatik Tel Besleme Lehim Makinesi / Automatic Wire-Feed Brazing Machine
+- **Açıklama:** Lehim telini makaradan otomatik besleyen, indüksiyon ile lehim yapan makine.
+- **URL:** https://www.toyer.com.tr/toyer-t/urunler/ (EN: https://www.toyer.com.tr/toyer-t/en/products/)
+
+### 2.23 Otomatik Döner Lehim Makinesi / Automatic Rotary Brazing Machine
 - **Açıklama:** Döner tablalı, tam otomatik lehim makinesi. Oksijen otomatik besleme, indüksiyon ile lehimleme ve otomasyon & yapay zeka desteğini tek makinede birleştirir.
 - **URL:** https://www.toyer.com.tr/toyer-t/urunler/otomatik-doner-lehim/ (EN: https://www.toyer.com.tr/toyer-t/en/products/rotary-brazing/)
 
-### 2.23 3 Eksen Boru Bükme Makinesi / 3-Axis Tube Bending Machine
+### 2.24 3 Eksen Boru Bükme Makinesi / 3-Axis Tube Bending Machine
 - **Açıklama:** Boruları üç eksende büken makine.
 - **URL:** https://www.toyer.com.tr/toyer-t/urunler/ (EN: https://www.toyer.com.tr/toyer-t/en/products/)
 
-### 2.24 Boru Sıvama Makinesi / Tube Spinning Machine
+### 2.25 Boru Sıvama Makinesi / Tube Spinning Machine
 - **Açıklama:** Boruları sıvama yöntemiyle şekillendiren makine. Boru makineye sürülür ve dönen kalıp içinde şekillendirilir.
 - **URL:** https://www.toyer.com.tr/toyer-t/urunler/boru-sivama-makinesi/ (EN: https://www.toyer.com.tr/toyer-t/en/products/tube-spinning-machine/)
 
-### 2.25 Servo Boru Havşa Makinesi / Servo Tube Flaring Machine
+### 2.26 Otomatik Sıvama ve Bükme Makinesi / Automatic Tube Spinning and Bending Machine
+- **Açıklama:** Kısa bakır boruları magazinden alıp uçlarını sıvayan ve büken tam otomatik makine. Sayaçlı HMI ile istenen adet kadar seri üretim yapar.
+- Kısa bakır boruları magazinden alıp ucunu sıvayan (çap daraltan) ve büken tam otomatik makine; biten parçalar kasaya düşer.
+- HMI ekranında istenen, üretilen ve kalan adet takibiyle adetli seri üretim.
+- **URL:** https://www.toyer.com.tr/toyer-t/urunler/otomatik-sivama-bukme/ (EN: https://www.toyer.com.tr/toyer-t/en/products/automatic-spinning-bending/)
+
+### 2.27 Servo Boru Havşa Makinesi / Servo Tube Flaring Machine
 - **Açıklama:** Boru uçlarına servo kontrollü havşa açan makine.
 - **URL:** https://www.toyer.com.tr/toyer-t/urunler/ (EN: https://www.toyer.com.tr/toyer-t/en/products/)
 
-### 2.26 Pnömatik Boru Havşa Makinesi / Pneumatic Tube Flaring Machine
+### 2.28 Pnömatik Boru Havşa Makinesi / Pneumatic Tube Flaring Machine
 - **Açıklama:** Boru uçlarına pnömatik tahrikle havşa açan makine.
 - **URL:** https://www.toyer.com.tr/toyer-t/urunler/ (EN: https://www.toyer.com.tr/toyer-t/en/products/)
 
-### 2.27 Hidrolik Boru Havşa Makinesi / Hydraulic Tube Flaring Machine
+### 2.29 Hidrolik Boru Havşa Makinesi / Hydraulic Tube Flaring Machine
 - **Açıklama:** Boru uçlarına hidrolik tahrikle havşa açan makine.
 - **URL:** https://www.toyer.com.tr/toyer-t/urunler/ (EN: https://www.toyer.com.tr/toyer-t/en/products/)
 
-### 2.28 Fırın Kontrol Otomasyonu / Furnace Control Automation
+### 2.30 Fırın Kontrol Otomasyonu / Furnace Control Automation
 - **Açıklama:** Konveyör hızından bağımsız olarak fırın sıcaklığını sabit tutan kontrol otomasyonu. Sıcaklık tepeleri olmadan, kontrollü aç-kapa döngüleriyle daha yüksek verim ve daha düşük işletme maliyeti.
 - **URL:** https://www.toyer.com.tr/toyer-t/urunler/firin-kontrol-otomasyonu/ (EN: https://www.toyer.com.tr/toyer-t/en/products/furnace-control-automation/)
 
-### 2.29 İndüksiyon ile Isıtma ve Kaynak Sistemleri / Induction Heating and Welding Systems
+### 2.31 İndüksiyon ile Isıtma ve Kaynak Sistemleri / Induction Heating and Welding Systems
 - **Açıklama:** İndüksiyon ile ısıtma ve kaynak sistemleri.
 - **URL:** https://www.toyer.com.tr/toyer-t/urunler/ (EN: https://www.toyer.com.tr/toyer-t/en/products/)
 
-### 2.30 Hidrolik Pres / Hydraulic Press
+### 2.32 Hidrolik Pres / Hydraulic Press
 - **Açıklama:** Hidrolik presler.
 - **URL:** https://www.toyer.com.tr/toyer-t/urunler/ (EN: https://www.toyer.com.tr/toyer-t/en/products/)
 
-### 2.31 Pnömatik Pres / Pneumatic Press
+### 2.33 Pnömatik Pres / Pneumatic Press
 - **Açıklama:** Sac ve şerit parçaları basınçlı hava ile çalışan kalıplarda hızlı ve tekrarlanabilir şekilde basan pres.
 - **URL:** https://www.toyer.com.tr/toyer-t/urunler/pnomatik-pres/ (EN: https://www.toyer.com.tr/toyer-t/en/products/pneumatic-press/)
 
-### 2.32 Abkant Pres / Press Brake
+### 2.34 Abkant Pres / Press Brake
 - **Açıklama:** Sac panelleri istenen açıda büken abkant pres.
 - **URL:** https://www.toyer.com.tr/toyer-t/urunler/abkant-pres/ (EN: https://www.toyer.com.tr/toyer-t/en/products/press-brake/)
 

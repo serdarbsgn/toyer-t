@@ -56,9 +56,11 @@
 - [Otomatik Punta Makinesi (TR)](https://www.toyer.com.tr/toyer-t/urunler/): Otomatik punta (nokta) kaynak makinesi.
 - [Pnömatik Boru Bükme Makinesi (TR)](https://www.toyer.com.tr/toyer-t/urunler/): Boruları pnömatik tahrikle büken makine.
 - [Bakır Kollektör Lehim Makinesi (TR)](https://www.toyer.com.tr/toyer-t/urunler/): Bakır kollektörlerin lehimlenmesi için otomatik lehim makinesi.
+- [Otomatik Tel Besleme Lehim Makinesi (TR)](https://www.toyer.com.tr/toyer-t/urunler/): Lehim telini makaradan otomatik besleyen, indüksiyon ile lehim yapan makine.
 - [Otomatik Döner Lehim Makinesi (TR)](https://www.toyer.com.tr/toyer-t/urunler/otomatik-doner-lehim/): Döner tablalı, tam otomatik lehim makinesi. Oksijen otomatik besleme, indüksiyon ile lehimleme ve otomasyon & yapay zeka desteğini tek makinede birleştirir.
 - [3 Eksen Boru Bükme Makinesi (TR)](https://www.toyer.com.tr/toyer-t/urunler/): Boruları üç eksende büken makine.
 - [Boru Sıvama Makinesi (TR)](https://www.toyer.com.tr/toyer-t/urunler/boru-sivama-makinesi/): Boruları sıvama yöntemiyle şekillendiren makine. Boru makineye sürülür ve dönen kalıp içinde şekillendirilir.
+- [Otomatik Sıvama ve Bükme Makinesi (TR)](https://www.toyer.com.tr/toyer-t/urunler/otomatik-sivama-bukme/): Kısa bakır boruları magazinden alıp uçlarını sıvayan ve büken tam otomatik makine. Sayaçlı HMI ile istenen adet kadar seri üretim yapar.
 - [Servo Boru Havşa Makinesi (TR)](https://www.toyer.com.tr/toyer-t/urunler/): Boru uçlarına servo kontrollü havşa açan makine.
 - [Pnömatik Boru Havşa Makinesi (TR)](https://www.toyer.com.tr/toyer-t/urunler/): Boru uçlarına pnömatik tahrikle havşa açan makine.
 - [Hidrolik Boru Havşa Makinesi (TR)](https://www.toyer.com.tr/toyer-t/urunler/): Boru uçlarına hidrolik tahrikle havşa açan makine.
@@ -88,9 +90,11 @@
 - [Automatic Spot Welding Machine (EN)](https://www.toyer.com.tr/toyer-t/en/products/): Automatic spot welding machine.
 - [Pneumatic Tube Bending Machine (EN)](https://www.toyer.com.tr/toyer-t/en/products/): Machine that bends tubes with pneumatic drive.
 - [Copper Header Brazing Machine (EN)](https://www.toyer.com.tr/toyer-t/en/products/): Automatic brazing machine for copper headers.
+- [Automatic Wire-Feed Brazing Machine (EN)](https://www.toyer.com.tr/toyer-t/en/products/): Induction brazing machine that feeds brazing wire automatically from a spool.
 - [Automatic Rotary Brazing Machine (EN)](https://www.toyer.com.tr/toyer-t/en/products/rotary-brazing/): Fully automatic brazing machine with a rotary indexing table. Combines automatic oxygen feeding, induction brazing and automation & AI support in one machine.
 - [3-Axis Tube Bending Machine (EN)](https://www.toyer.com.tr/toyer-t/en/products/): Machine that bends tubes on three axes.
 - [Tube Spinning Machine (EN)](https://www.toyer.com.tr/toyer-t/en/products/tube-spinning-machine/): Machine that forms tubes by spinning. The tube is fed in and formed inside the rotating die.
+- [Automatic Tube Spinning and Bending Machine (EN)](https://www.toyer.com.tr/toyer-t/en/products/automatic-spinning-bending/): Fully automatic machine that takes short copper tubes from a magazine, spins (reduces) their ends and bends them. Runs batch production to a set quantity with a counting HMI.
 - [Servo Tube Flaring Machine (EN)](https://www.toyer.com.tr/toyer-t/en/products/): Machine that flares tube ends with servo control.
 - [Pneumatic Tube Flaring Machine (EN)](https://www.toyer.com.tr/toyer-t/en/products/): Machine that flares tube ends with pneumatic drive.
 - [Hydraulic Tube Flaring Machine (EN)](https://www.toyer.com.tr/toyer-t/en/products/): Machine that flares tube ends with hydraulic drive.
