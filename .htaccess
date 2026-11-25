@@ -1,0 +1,213 @@
+# =====================================================================
+#  toyer.com.tr  (Astro statik site, Apache)
+#  OTOMATİK ÜRETİLİR: src/integrations/htaccess.mjs her build'de yazar.
+#  Elle değiştirmeyin; yönlendirmeler astro.config.mjs REDIRECTS'te.
+#  Tüm bloklar <IfModule> içinde: ilgili modül sunucuda yoksa
+#  kural sessizce atlanır, site 500 hatası vermez.
+# =====================================================================
+
+# --- Temel ayarlar ----------------------------------------------------
+DirectoryIndex index.html
+AddDefaultCharset UTF-8
+AddCharset UTF-8 .html .txt .xml .webmanifest
+
+# Klasör içeriğinin listelenmesini kapat (_astro, images vb.)
+# Not: Site bu satır yüzünden "500 Internal Server Error" verirse
+# hosting bu ayara izin vermiyor demektir; satırı silin.
+Options -Indexes
+
+# --- Hata sayfası -----------------------------------------------------
+# Olmayan adres: sitenin kendi 404 sayfası, gerçek 404 koduyla. PHP yok.
+ErrorDocument 404 /404.html
+<If "%{REQUEST_URI} =~ m#^/en/#">
+    ErrorDocument 404 /en/404/index.html
+</If>
+
+# --- Yönlendirmeler ---------------------------------------------------
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+
+    # --- cPanel 404.shtml -------------------------------------------
+    # Hosting kendi ErrorDocument'ını dayatırsa /404.shtml gelir (404.html'in
+    # kopyası). Aşağıdaki dil klasörlerinde o dilin 404 sayfası gösterilir.
+    RewriteCond %{ENV:REDIRECT_URL} ^/en/
+    RewriteRule ^404\.shtml$ /en/404/index.html [L]
+
+    # --- Eski adresler -> yeni adresler (301) -------------------------
+    # Türkçe harfler UTF-8 bayt kodu olarak yazılır (\xC5\x9F = ş,
+    # \xC4\xB1 = ı ...). Astro'nun bu adresler için ürettiği sayfalar
+    # 301 değil 200 + meta refresh döner (Türkçe adlı klasörleri de
+    # sunucudaki zip açıcı bozuyor); gerçek 301'i bu kurallar verir.
+
+    # /anasayfa
+    RewriteRule ^anasayfa/?$ https://toyer.com.tr/ [R=301,NE,L]
+
+    # /iletişim
+    RewriteRule ^ileti\xC5\x9Fim/?$ https://toyer.com.tr/iletisim/ [R=301,NE,L]
+
+    # /insan-kaynakları
+    RewriteRule ^insan-kaynaklar\xC4\xB1/?$ https://toyer.com.tr/insan-kaynaklari/ [R=301,NE,L]
+
+    # /makine-parkımız
+    RewriteRule ^makine-park\xC4\xB1m\xC4\xB1z/?$ https://toyer.com.tr/makine-parkimiz/ [R=301,NE,L]
+
+    # /ar-ge/kosgeb-tubitak-projeleri
+    RewriteRule ^ar-ge/kosgeb-tubitak-projeleri/?$ https://toyer.com.tr/ar-ge/#projeler [R=301,NE,L]
+
+    # /ar-ge/sınai-mülkiyet-hakları
+    RewriteRule ^ar-ge/s\xC4\xB1nai-m\xC3\xBClkiyet-haklar\xC4\xB1/?$ https://toyer.com.tr/ar-ge/#patentler [R=301,NE,L]
+
+    # /ürünler
+    RewriteRule ^\xC3\xBCr\xC3\xBCnler/?$ https://toyer.com.tr/urunler/ [R=301,NE,L]
+
+    # /ürünler/boru-kontrol-fikstürleri
+    RewriteRule ^\xC3\xBCr\xC3\xBCnler/boru-kontrol-fikst\xC3\xBCrleri/?$ https://toyer.com.tr/urunler/boru-kontrol-fiksturu/ [R=301,NE,L]
+
+    # /ürünler/boru-şekillendirme-kalıp
+    RewriteRule ^\xC3\xBCr\xC3\xBCnler/boru-\xC5\x9Fekillendirme-kal\xC4\xB1p/?$ https://toyer.com.tr/urunler/boru-sekillendirme-kalip/ [R=301,NE,L]
+
+    # /ürünler/boru-şekillendirme-makineleri
+    RewriteRule ^\xC3\xBCr\xC3\xBCnler/boru-\xC5\x9Fekillendirme-makineleri/?$ https://toyer.com.tr/urunler/boru-sekillendirme/ [R=301,NE,L]
+
+    # /ürünler/boru-ucu-şekillendirme-makineleri
+    RewriteRule ^\xC3\xBCr\xC3\xBCnler/boru-ucu-\xC5\x9Fekillendirme-makineleri/?$ https://toyer.com.tr/urunler/boru-ucu-sekillendirme/ [R=301,NE,L]
+
+    # /ürünler/buzdolabi-kurutucu-filitre-silikajel-doldurma-ve-kapatma-makineleri
+    RewriteRule ^\xC3\xBCr\xC3\xBCnler/buzdolabi-kurutucu-filitre-silikajel-doldurma-ve-kapatma-makineleri/?$ https://toyer.com.tr/urunler/buzdolabi-kurutucu/ [R=301,NE,L]
+
+    # /ürünler/buzdolabı-kurutucu-filitre-silikajel-doldurma-ve-kapatma-makineleri
+    RewriteRule ^\xC3\xBCr\xC3\xBCnler/buzdolab\xC4\xB1-kurutucu-filitre-silikajel-doldurma-ve-kapatma-makineleri/?$ https://toyer.com.tr/urunler/buzdolabi-kurutucu/ [R=301,NE,L]
+
+    # /ürünler/çabuk-bağlantı-elemanları-quick-kaplinler
+    RewriteRule ^\xC3\xBCr\xC3\xBCnler/\xC3\xA7abuk-ba\xC4\x9Flant\xC4\xB1-elemanlar\xC4\xB1-quick-kaplinler/?$ https://toyer.com.tr/urunler/quick-kaplinler/ [R=301,NE,L]
+
+    # /ürünler/endüstriyel-malzeme-takip-dolapları
+    RewriteRule ^\xC3\xBCr\xC3\xBCnler/end\xC3\xBCstriyel-malzeme-takip-dolaplar\xC4\xB1/?$ https://toyer.com.tr/urunler/malzeme-takip/ [R=301,NE,L]
+
+    # /ürünler/helyum-kaçak-test-makineleri
+    RewriteRule ^\xC3\xBCr\xC3\xBCnler/helyum-ka\xC3\xA7ak-test-makineleri/?$ https://toyer.com.tr/urunler/helyum-kacak-test/ [R=301,NE,L]
+
+    # /ürünler/isı-eşanjörü-boru-şişirme-makineleri
+    RewriteRule ^\xC3\xBCr\xC3\xBCnler/is\xC4\xB1-e\xC5\x9Fanj\xC3\xB6r\xC3\xBC-boru-\xC5\x9Fi\xC5\x9Firme-makineleri/?$ https://toyer.com.tr/urunler/isi-esanjoru/ [R=301,NE,L]
+
+    # /ürünler/ısı-eşanörü-boru-şişirme-makineleri
+    RewriteRule ^\xC3\xBCr\xC3\xBCnler/\xC4\xB1s\xC4\xB1-e\xC5\x9Fan\xC3\xB6r\xC3\xBC-boru-\xC5\x9Fi\xC5\x9Firme-makineleri/?$ https://toyer.com.tr/urunler/isi-esanjoru/ [R=301,NE,L]
+
+    # /ürünler/kaynak-makineleri
+    RewriteRule ^\xC3\xBCr\xC3\xBCnler/kaynak-makineleri/?$ https://toyer.com.tr/urunler/kaynak-makineleri/ [R=301,NE,L]
+
+    # /ürünler/makara-taşıma-ve-devirme-askıları
+    RewriteRule ^\xC3\xBCr\xC3\xBCnler/makara-ta\xC5\x9F\xC4\xB1ma-ve-devirme-ask\xC4\xB1lar\xC4\xB1/?$ https://toyer.com.tr/urunler/makara-tasima/ [R=301,NE,L]
+
+    # /ürünler/otomatik-tel-kangal-çözücüleri
+    RewriteRule ^\xC3\xBCr\xC3\xBCnler/otomatik-tel-kangal-\xC3\xA7\xC3\xB6z\xC3\xBCc\xC3\xBCleri/?$ https://toyer.com.tr/urunler/kangal-cozucu/ [R=301,NE,L]
+
+    # /ürünler/titanyum-levha-süperplastik-şekillendirme-makinesi
+    RewriteRule ^\xC3\xBCr\xC3\xBCnler/titanyum-levha-s\xC3\xBCperplastik-\xC5\x9Fekillendirme-makinesi/?$ https://toyer.com.tr/urunler/titanyum-sekillendirme/ [R=301,NE,L]
+
+    # /ürünler/yapay-zeka-entegrasyonlu-tam-otomatik-sert-lehimleme-sistemi
+    RewriteRule ^\xC3\xBCr\xC3\xBCnler/yapay-zeka-entegrasyonlu-tam-otomatik-sert-lehimleme-sistemi/?$ https://toyer.com.tr/urunler/yapay-zeka-lehimleme/ [R=301,NE,L]
+
+    # http -> https
+    # Cloudflare arkasında döngüye girmemesi için ziyaretçinin gerçek
+    # protokolünü X-Forwarded-Proto başlığından okur.
+    RewriteCond %{HTTP:X-Forwarded-Proto} =http
+    RewriteRule ^ https://toyer.com.tr%{REQUEST_URI} [R=301,L]
+
+    # www.toyer.com.tr -> toyer.com.tr
+    RewriteCond %{HTTP_HOST} ^www\.toyer\.com\.tr$ [NC]
+    RewriteRule ^ https://toyer.com.tr%{REQUEST_URI} [R=301,L]
+
+    # Sonunda / olmayan klasör adresi -> tek adımda https + / (Apache'nin
+    # kendi yönlendirmesi Cloudflare arkasında önce http'ye gidiyor)
+    RewriteCond %{REQUEST_FILENAME} -d
+    RewriteRule ^(.*[^/])$ https://toyer.com.tr/$1/ [R=301,L]
+
+    # --- 404 yedeği (normalde KAPALI) ---------------------------------
+    # Normalde yukarıdaki ErrorDocument yeterli (gerçek 404 kodu). Hosting
+    # onu ezerse (canlıda olmayan bir adreste hosting'in kendi sayfası
+    # çıkarsa) bir sonraki satırın başındaki # işaretini kaldırın: olmayan
+    # adresler 404 sayfasına içeriden aktarılır. Durum kodu o zaman 200
+    # olur; 404 sayfaları noindex taşıdığı için Google onları dizine almaz.
+    # (Kalıcı yapmak için: astro.config.mjs'te htaccess({ fallback404: true }).)
+    # RewriteRule ^ - [E=FALLBACK404:1]
+
+    RewriteCond %{ENV:FALLBACK404} =1
+    RewriteCond %{REQUEST_FILENAME} !-f
+    RewriteCond %{REQUEST_FILENAME} !-d [OR]
+    RewriteCond %{REQUEST_FILENAME}/index.html !-f
+    RewriteRule ^ - [E=NOTFOUND:1]
+
+    RewriteCond %{ENV:NOTFOUND} =1
+    RewriteCond %{REQUEST_URI} ^/en/
+    RewriteRule ^ /en/404/index.html [L]
+
+    RewriteCond %{ENV:NOTFOUND} =1
+    RewriteRule ^ /404.html [L]
+
+    # index.html'i olmayan klasörler (_astro/, images/ ...): çıplak
+    # "403 Forbidden" yerine 404 (yukarıdaki ErrorDocument sayfası)
+    RewriteCond %{REQUEST_FILENAME} -d
+    RewriteCond %{REQUEST_FILENAME}/index.html !-f
+    RewriteRule ^ - [R=404,L]
+</IfModule>
+
+# --- MIME türleri -----------------------------------------------------
+<IfModule mod_mime.c>
+    AddType application/manifest+json  .webmanifest
+    AddType font/woff2                 .woff2
+    AddType image/webp                 .webp
+    AddType image/svg+xml              .svg
+    AddType video/mp4                  .mp4
+    AddType text/plain                 .txt
+</IfModule>
+
+# --- Sıkıştırma -------------------------------------------------------
+<IfModule mod_deflate.c>
+    AddOutputFilterByType DEFLATE text/html text/plain text/xml text/css
+    AddOutputFilterByType DEFLATE application/javascript text/javascript
+    AddOutputFilterByType DEFLATE application/xml application/json
+    AddOutputFilterByType DEFLATE application/manifest+json image/svg+xml
+</IfModule>
+
+# --- Tarayıcı önbelleği -----------------------------------------------
+<IfModule mod_expires.c>
+    ExpiresActive On
+    ExpiresDefault                          "access plus 1 week"
+
+    # HTML ve site haritaları: her zaman güncel sürüm kontrol edilsin
+    ExpiresByType text/html                 "access plus 0 seconds"
+    ExpiresByType application/xml           "access plus 0 seconds"
+    ExpiresByType text/xml                  "access plus 0 seconds"
+    ExpiresByType text/plain                "access plus 1 hour"
+    ExpiresByType application/manifest+json "access plus 1 week"
+
+    # JS/CSS sadece _astro/ içinde ve dosya adları hash'li -> uzun süre
+    ExpiresByType application/javascript    "access plus 1 year"
+    ExpiresByType text/javascript           "access plus 1 year"
+    ExpiresByType text/css                  "access plus 1 year"
+
+    # Görsel, video, font
+    ExpiresByType image/webp                "access plus 1 month"
+    ExpiresByType image/jpeg                "access plus 1 month"
+    ExpiresByType image/png                 "access plus 1 month"
+    ExpiresByType image/svg+xml             "access plus 1 month"
+    ExpiresByType image/x-icon              "access plus 1 month"
+    ExpiresByType image/vnd.microsoft.icon  "access plus 1 month"
+    ExpiresByType video/mp4                 "access plus 1 month"
+    ExpiresByType font/woff2                "access plus 1 year"
+</IfModule>
+
+# --- Güvenlik başlıkları ----------------------------------------------
+<IfModule mod_headers.c>
+    # deploy/nginx-security-headers.conf ile aynı başlıklar.
+    Header always set Content-Security-Policy "frame-ancestors 'none'; base-uri 'self'; object-src 'none'; form-action 'self'; require-trusted-types-for 'script'"
+    Header always set X-Frame-Options "DENY"
+    Header always set X-Content-Type-Options "nosniff"
+    Header always set Referrer-Policy "strict-origin-when-cross-origin"
+    Header always set Permissions-Policy "camera=(), microphone=(), geolocation=(), payment=(), usb=()"
+    Header always set Cross-Origin-Opener-Policy "same-origin"
+    # HSTS 1. aşama (5 dk). HTTPS bir hafta sorunsuz çalışınca 31536000 yapın.
+    Header always set Strict-Transport-Security "max-age=300"
+    Header unset X-Powered-By
+</IfModule>

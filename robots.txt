@@ -4,4 +4,4 @@ Allow: /
 # Prevent crawling internal assets or admin files if any exist
 Disallow: /api/
 
-Sitemap: https://www.toyer.com.tr/sitemap-index.xml
+Sitemap: https://toyer.com.tr/sitemap-index.xml

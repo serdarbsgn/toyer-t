@@ -1,0 +1,1 @@
+import{c as e,i as t,o as n,t as r}from"./theme.BKQ4DMBo.js";var i=[...document.querySelectorAll(`[data-scheme-toggle]`)],a=()=>i.forEach(e=>{let n=JSON.parse(e.dataset.labels??`{}`),r=`${n.label}: ${n[t()]??``}`;e.setAttribute(`aria-label`,r),e.title=r});i.forEach(t=>t.addEventListener(`click`,()=>e(n(),`toggle`))),document.addEventListener(r,a),a();

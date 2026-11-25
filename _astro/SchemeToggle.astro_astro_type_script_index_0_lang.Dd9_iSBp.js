@@ -1,1 +1,0 @@
-import{a as e,i as t,n,t as r}from"./theme.CnxauUID.js";var i=[...document.querySelectorAll(`[data-scheme-toggle]`)],a=()=>i.forEach(e=>{let t=JSON.parse(e.dataset.labels??`{}`),r=`${t.label}: ${t[n()]??``}`;e.setAttribute(`aria-label`,r),e.title=r});i.forEach(n=>n.addEventListener(`click`,()=>e(t(),`toggle`))),document.addEventListener(r,a),a();
